@@ -3,7 +3,7 @@ import type { LucideIcon } from 'lucide-react'
 export interface NavigationItem {
 	key: string // 用于翻译键，如 'codes' -> t('nav.codes')
 	path: string // URL 路径，如 '/codes'
-	icon?: LucideIcon // Lucide 图标组件
+	icon: LucideIcon // Lucide 图标组件
 	isContentType: boolean // 是否对应 content/ 目录
 }
 
