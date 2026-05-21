@@ -258,156 +258,234 @@
     },
     "yoshiControlsAndMoves": {
       "title": "Yoshi and the Mysterious Book Controls and Moves",
-      "displayType": "cards",
-      "intro": "Mastering controls in Yoshi and the Mysterious Book is about pairing movement with creature interactions instead of treating inputs as isolated actions.",
-      "cards": [
+      "displayType": "stepByStep",
+      "subtitle": "Learn Yoshi's main movement, creature, and discovery actions, including Tail Flick, Gobble, egg throws, Flutter Jump, Ground Pound, Sprint, and Observe.",
+      "intro": "Yoshi and the Mysterious Book is built around experimenting with creatures. The best way to progress is to try each move on creatures, objects, and habitat features, then watch how the environment reacts.",
+      "steps": [
         {
-          "name": "Gobble and Carry Control",
-          "description": "Use tongue capture and carry states to reposition creatures for discovery triggers."
+          "step": 1,
+          "move": "Tail Flick",
+          "input": "Press X",
+          "whatItDoes": "Puts a creature or object onto Yoshi's back.",
+          "bestUse": "Use this on creatures that can ride with Yoshi, then move, sprint, or repeat the move to throw them or trigger a special action."
         },
         {
-          "name": "Tail Flick Placement",
-          "description": "Tail Flick sets up controlled creature placement, especially for bloom and hive interactions."
+          "step": 2,
+          "move": "Gobble",
+          "input": "Press B",
+          "whatItDoes": "Uses Yoshi's tongue to taste or swallow certain creatures.",
+          "bestUse": "Try Gobble on new creatures to learn reactions, create eggs, or discover hidden behavior."
         },
         {
-          "name": "Egg Throw Utility",
-          "description": "Egg throws test distance reactions and activate object-based discovery checks."
+          "step": 3,
+          "move": "Throwing Eggs",
+          "input": "Use after Gobble creates an egg",
+          "whatItDoes": "Throws eggs at creatures, objects, and environmental targets.",
+          "bestUse": "Use eggs to provoke creature reactions, uncover mysteries, and reach discoveries that simple jumping cannot solve."
         },
         {
-          "name": "Flutter Jump Traversal",
-          "description": "Flutter Jump stabilizes bubble route timing and improves recovery in vertical habitats."
+          "step": 4,
+          "move": "Flutter Jump",
+          "input": "Hold A while mid-air",
+          "whatItDoes": "Lets Yoshi hover briefly after jumping or falling.",
+          "bestUse": "Use it to cross gaps, correct jumps, and stay close to airborne creatures or moving platforms."
         },
         {
-          "name": "Ground Pound Triggers",
-          "description": "Ground Pound opens floor-based interactions and can chain with creature state changes."
+          "step": 5,
+          "move": "Ground Pound",
+          "input": "Tilt the Left Stick down while mid-air",
+          "whatItDoes": "Drops Yoshi straight down to pound the ground or a creature below.",
+          "bestUse": "Use it on creatures and ground spots to shake loose items, flatten targets, or trigger habitat reactions."
         },
         {
-          "name": "Sprint and Observe Rhythm",
-          "description": "Alternate sprint repositioning with short observation pauses to catch hidden reaction windows."
+          "step": 6,
+          "move": "Sprint",
+          "input": "Keep moving in the same direction",
+          "whatItDoes": "Yoshi breaks into a faster run after moving steadily.",
+          "bestUse": "Use Sprint to cross wider spaces and test how a creature riding on Yoshi's back reacts at higher speed."
+        },
+        {
+          "step": 7,
+          "move": "Observe and Duck",
+          "input": "Pause, watch, or duck with the Left Stick down",
+          "whatItDoes": "Lets you study creature behavior and stay out of the way.",
+          "bestUse": "Use this when a discovery is not obvious. Many habitats reward watching before acting."
         }
-      ],
-      "highlights": [
-        "Practice carry transitions before speed routing any habitat.",
-        "Use Tail Flick and Egg Throw together for faster discovery checks.",
-        "Movement consistency matters more than aggressive pace in puzzle habitats.",
-        "Observation timing is a control skill in Yoshi and the Mysterious Book."
       ]
     },
     "yoshiReleaseDateAndPlatform": {
       "title": "Yoshi and the Mysterious Book Release Date and Platform",
-      "displayType": "regionCards",
-      "intro": "This Yoshi and the Mysterious Book release module summarizes platform scope, launch window facts, and purchase-ready details.",
-      "regions": [
+      "displayType": "table",
+      "subtitle": "Check the release date, platform, supported modes, file size, rating, and purchase details for Yoshi's Switch 2 adventure.",
+      "intro": "Yoshi and the Mysterious Book launched as a Nintendo Switch 2 title on May 21, 2026. The game focuses on single-player discovery, creature study, and puzzle-platforming inside Mr. E's living book.",
+      "items": [
         {
-          "name": "Official Release Date",
-          "type": "Launch Info",
-          "description": "Yoshi and the Mysterious Book launched on May 21, 2026."
+          "label": "Release Date",
+          "value": "May 21, 2026",
+          "details": "Listed by Nintendo in the US and UK as May 21, 2026."
         },
         {
-          "name": "Platform Availability",
-          "type": "Platform",
-          "description": "The game is positioned for Nintendo Switch 2 players."
+          "label": "Platform",
+          "value": "Nintendo Switch 2",
+          "details": "The game is listed as a Nintendo Switch 2 title and is promoted as only playable on Nintendo Switch 2."
         },
         {
-          "name": "Download Size",
-          "type": "Storage",
-          "description": "Plan for approximately 19.6 GB of storage on the target platform."
+          "label": "Publisher",
+          "value": "Nintendo",
+          "details": "Nintendo is the official publisher."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The official store listing reports broad multi-language support for global regions."
+          "label": "Genre",
+          "value": "Action, Adventure, Platforming",
+          "details": "The official store pages classify it as a platforming adventure."
         },
         {
-          "name": "Official Trailer",
-          "type": "Media",
-          "description": "Use the trailer section above to preview exploration, creature discovery, and chapter pacing."
+          "label": "Players",
+          "value": "Single System (1)",
+          "details": "Designed as a single-player adventure."
         },
         {
-          "name": "Purchase Route",
-          "type": "Store Access",
-          "description": "Use the Nintendo Store button in Hero to open the official purchase page directly."
+          "label": "Supported Play Modes",
+          "value": "TV, Tabletop, Handheld",
+          "details": "All three Nintendo Switch 2 play modes are listed."
+        },
+        {
+          "label": "Download Size",
+          "value": "19.6 GB",
+          "details": "Nintendo lists the game file size as 19.6 GB."
+        },
+        {
+          "label": "Age Rating",
+          "value": "ESRB: Mild Fantasy Violence; PEGI: 7",
+          "details": "US and UK listings show family-friendly age ratings with fantasy violence notes."
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "Save Data Cloud supported",
+          "details": "The official Nintendo page lists Save Data Cloud support."
+        },
+        {
+          "label": "amiibo Support",
+          "value": "Compatible amiibo can give daily fortunes and tokens",
+          "details": "Tokens can be used to unlock hints about discoveries."
+        },
+        {
+          "label": "Purchase Options",
+          "value": "Digital and physical editions",
+          "details": "US review pricing lists digital at about $59.99 and physical at about $69.99, with final pricing depending on region and retailer."
         }
       ]
     },
     "yoshiBossesAndCharacters": {
       "title": "Yoshi and the Mysterious Book Bosses and Characters",
-      "displayType": "creatureCards",
-      "intro": "Track key roles in Yoshi and the Mysterious Book, from Mr. E guidance to recurring rivals and chapter-specific threat encounters.",
-      "creatures": [
-        {
-          "name": "Mr. E",
-          "role": "Guide Role",
-          "description": "Acts as the encyclopedia host, records discoveries, and directs page-by-page progression."
-        },
+      "displayType": "cardList",
+      "subtitle": "Meet Yoshi, Mr. E, Bowser Jr., Kamek, and the curious creatures that shape each habitat.",
+      "intro": "The story begins when Mr. E, a talking encyclopedia, lands on Yoshi's Island after losing track of what is inside his pages. Yoshi enters the book to study creatures, while Bowser Jr. and Kamek stir up trouble while searching for something inside Mr. E.",
+      "items": [
         {
           "name": "Yoshi",
-          "role": "Playable Lead",
-          "description": "Executes every discovery interaction through movement, carrying, and creature testing."
+          "role": "Playable Hero",
+          "description": "Yoshi leads the adventure by jumping into Mr. E's pages, exploring habitats, studying creatures, and using moves like Gobble, egg throwing, Flutter Jump, Ground Pound, Sprint, and Tail Flick.",
+          "whyItMatters": "Most discoveries come from using Yoshi's moves in different ways instead of simply reaching the end of a stage."
+        },
+        {
+          "name": "Mr. E",
+          "role": "Guide and Living Book",
+          "description": "Mr. E is Mister Encyclopedia, a mysterious talking book that crash-lands on Yoshi's Island and needs help remembering the creatures inside his pages.",
+          "whyItMatters": "He frames the whole game around creature research, page exploration, names, hints, and discoveries."
         },
         {
           "name": "Bowser Jr.",
-          "role": "Rival Presence",
-          "description": "Adds conflict pressure during story progression and chapter transitions."
+          "role": "Story Rival",
+          "description": "Bowser Jr. appears in habitats and is searching for something inside Mr. E. The opening story connects him to the mysterious book and the hunt for the Bewilder Bird.",
+          "whyItMatters": "His appearances add conflict to the otherwise cozy discovery-focused adventure."
         },
         {
           "name": "Kamek",
-          "role": "Antagonist Support",
-          "description": "Supports rival disruptions and contributes to chapter event escalation."
+          "role": "Bowser Jr.'s Partner",
+          "description": "Kamek appears alongside Bowser Jr. and helps create trouble during the journey through Mr. E's pages.",
+          "whyItMatters": "Kamek supports Bowser Jr.'s role as the recurring obstacle in Yoshi's exploration."
+        },
+        {
+          "name": "Bewilder Bird",
+          "role": "Story Target",
+          "description": "The Bewilder Bird is tied to Bowser Jr.'s search and gives the story a central mystery beyond simply cataloging creatures.",
+          "whyItMatters": "It explains why Bowser Jr. is interested in Mr. E and keeps the main plot moving."
         },
         {
           "name": "Crazee Dayzee",
-          "role": "Signature Creature",
-          "description": "Functions as a landmark interaction creature tied to bloom routes and recurring discoveries."
+          "role": "Recurring Creature",
+          "description": "Crazee Dayzee is a flower-like creature found across multiple habitats in different colors.",
+          "whyItMatters": "It is one of the early examples of how carrying, jumping, or pounding creatures can reveal new reactions."
         },
         {
-          "name": "Major Habitat Encounters",
-          "role": "Boss Route Moments",
-          "description": "Key habitat encounters test whether creature knowledge has been applied correctly."
+          "name": "Habitat Creatures",
+          "role": "Discovery Subjects",
+          "description": "Mr. E's chapters contain dozens of creatures with different abilities, such as growing crops, blowing bubbles, singing, floating, being thrown like darts, or acting like boomerangs.",
+          "whyItMatters": "Each creature can open new routes, trigger discoveries, or teach you how other habitats work."
+        },
+        {
+          "name": "Boss and Rival Encounters",
+          "role": "Low-Pressure Challenge",
+          "description": "The game includes story encounters tied to Bowser Jr., Kamek, and creature habitats, but the overall focus stays on puzzle-solving, exploration, and discovery rather than hard combat.",
+          "whyItMatters": "Players looking for a relaxed Yoshi game should expect gentle challenge, while players wanting difficult boss fights may find it lighter."
         }
       ]
     },
     "yoshiReviewAndBuyingGuide": {
       "title": "Yoshi and the Mysterious Book Review and Buying Guide",
-      "displayType": "itemCards",
-      "intro": "Use this Yoshi and the Mysterious Book buying guide to evaluate gameplay style fit, family accessibility, and value before purchase.",
+      "displayType": "cardList",
+      "subtitle": "A practical buying guide for players deciding whether Yoshi's discovery-focused Switch 2 adventure is worth picking up.",
+      "intro": "Reviews describe Yoshi and the Mysterious Book as a charming, cozy, exploration-driven puzzle-platformer. Its biggest appeal is experimenting with creatures and filling out Mr. E's pages, while its main drawbacks are light challenge, single-player-only design, and occasional pacing or control issues.",
       "items": [
         {
-          "name": "Who This Game Fits Best",
+          "name": "Overall Verdict",
+          "type": "Review Summary",
+          "summary": "A charming and creative 2D puzzle-platforming adventure built around discovery, experimentation, and creature behavior.",
+          "buyingAdvice": "Worth buying if you want a relaxed Nintendo platformer with a strong sense of curiosity."
+        },
+        {
+          "name": "Best For",
           "type": "Player Fit",
-          "description": "Great for players who enjoy discovery loops, collectible cleanup, and creature-driven puzzles."
+          "summary": "Yoshi fans, younger players, cozy-game players, completionists, and anyone who enjoys poking around every corner for secrets.",
+          "buyingAdvice": "A strong match if you prefer exploration and small surprises over difficult jumps or punishing bosses."
         },
         {
-          "name": "Pacing and Session Length",
-          "type": "Play Pattern",
-          "description": "Chapter-based habitats support short sessions while still rewarding deep replay checks."
+          "name": "Main Strengths",
+          "type": "Pros",
+          "summary": "Reviewers praise the storybook visuals, smooth Switch 2 performance, creature variety, discovery loop, and Yoshi's familiar movement style.",
+          "buyingAdvice": "Buy it for the creature interactions, habitat puzzles, and playful experimentation."
         },
         {
-          "name": "Family and Kid Accessibility",
-          "type": "Family Play",
-          "description": "Readable structure and colorful interactions make it approachable for mixed skill levels."
+          "name": "Main Weak Spots",
+          "type": "Cons",
+          "summary": "Common complaints include single-player-only design, longer load times, some confusing levels, occasional finicky controls, and a story that can feel thin.",
+          "buyingAdvice": "Wait for a sale if you mainly want co-op, high difficulty, or a deep story."
         },
         {
-          "name": "Completionist Value",
-          "type": "Collectibles",
-          "description": "Smiley Flower and discovery completion paths add strong replay value for 100% runs."
+          "name": "Difficulty",
+          "type": "Challenge Level",
+          "summary": "The game is easier and lower-pressure than many traditional platformers. The challenge is more about creative discovery than strict platforming skill.",
+          "buyingAdvice": "Good for kids and casual players; less ideal if you want demanding boss fights or precision-heavy stages."
         },
         {
-          "name": "Platform Commitment",
-          "type": "Availability",
-          "description": "Best suited for players already planning Nintendo Switch 2 playtime."
+          "name": "Exploration Value",
+          "type": "Replay Hook",
+          "summary": "Each chapter encourages players to return, study creatures again, unlock hints, and fill out the encyclopedia-like pages.",
+          "buyingAdvice": "Worth it if you enjoy checklist-style discoveries, hidden reactions, and creature collection."
         },
         {
-          "name": "Overall Purchase Value",
-          "type": "Recommendation",
-          "description": "A strong buy for players who prefer exploratory platforming with layered discovery mechanics."
+          "name": "Price Choice",
+          "type": "Buying Option",
+          "summary": "US review pricing lists the digital edition around $59.99 and the physical edition around $69.99, with pricing varying by region and retailer.",
+          "buyingAdvice": "Choose digital for the lower listed price, or physical if you prefer collecting Nintendo Switch 2 cartridges."
+        },
+        {
+          "name": "Final Recommendation",
+          "type": "Buy or Skip",
+          "summary": "Buy it for cozy discovery, charming visuals, and a new twist on Yoshi. Skip or wait if you want a demanding platformer, multiplayer, or a more combat-heavy adventure.",
+          "buyingAdvice": "Best treated as a relaxed exploration game, not as a hardcore platforming challenge."
         }
-      ],
-      "unlockMilestones": [
-        "Watch the official trailer before purchasing",
-        "Check platform and storage requirements",
-        "Choose between quick-clear and completionist play goals",
-        "Start with the Beginner Guide module after purchase"
       ]
     }
   },
@@ -460,18 +538,18 @@
   "pages": {
     "guides": {
       "title": "Yoshi and the Mysterious Book Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
+      "description": "Complete gameplay guides from beginner basics to advanced creature interactions, chapter routing, and collectible planning.",
       "metaTitle": "Yoshi and the Mysterious Book Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Yoshi and the Mysterious Book guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "metaDescription": "Complete Yoshi and the Mysterious Book guides covering beginner tips, chapter progression, creature experimentation, and expert collectible strategies.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, chapter progression, creature interactions, and advanced discovery techniques.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand core movement and creature interaction systems to avoid common beginner mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
+        "step2Description": "Follow proven chapter routes to progress quickly through each habitat",
         "step3Title": "Master Strategies",
         "step3Description": "Develop advanced tactics for exploration and crafting"
       },
@@ -480,20 +558,20 @@
     },
     "crafting": {
       "title": "Yoshi and the Mysterious Book Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Yoshi and the Mysterious Book Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Yoshi and the Mysterious Book Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "description": "Master item utility, collectibles, and tool-focused progression systems used across Yoshi and the Mysterious Book habitats.",
+      "metaTitle": "Yoshi and the Mysterious Book Crafting - Item Systems & Utility Routes",
+      "metaDescription": "Master Yoshi and the Mysterious Book item systems. Learn how tokens, hints, and chapter rewards support progression and collectibles.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
+      "whatIsDescription": "This section focuses on practical item progression, including tokens, chapter rewards, and the best ways to use utility tools while exploring habitats.",
       "why": "Why master crafting?",
       "whySteps": {
         "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
+        "step1Description": "Discover essential tools and utility options that support exploration and cleaner routes",
         "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
+        "step2Description": "Learn how to prioritize item rewards and hints based on your chapter goals",
         "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step3Description": "Use resource planning to maximize discovery progress with minimal backtracking"
       },
       "featured": "Featured & Essential",
       "all": "All Crafting Guides"
@@ -509,7 +587,7 @@
       "why": "Why check item guides?",
       "whySteps": {
         "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
+        "step1Description": "Discover how each item type supports exploration, puzzle solving, and cleaner habitat routes",
         "step2Title": "Optimize Equipment",
         "step2Description": "Choose the best items for your playstyle and progression stage",
         "step3Title": "Improve Survival",
@@ -522,7 +600,7 @@
       "title": "Yoshi and the Mysterious Book Biomes",
       "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
       "metaTitle": "Yoshi and the Mysterious Book Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Yoshi and the Mysterious Book biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
+      "metaDescription": "Explore Yoshi and the Mysterious Book habitats, chapter themes, and environmental features to find collectibles and hidden discovery routes.",
       "categoryLabel": "WORLD REGIONS",
       "whatIs": "What are Biomes?",
       "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
@@ -540,20 +618,20 @@
     },
     "building": {
       "title": "Yoshi and the Mysterious Book Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Yoshi and the Mysterious Book Building - Qualia & Base Construction",
-      "metaDescription": "Master Yoshi and the Mysterious Book building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
+      "description": "Master route setup habits, chapter cleanup planning, and collection tracking to improve exploration efficiency.",
+      "metaTitle": "Yoshi and the Mysterious Book Building - Route Setup & Collection Planning",
+      "metaDescription": "Master Yoshi and the Mysterious Book route setup with chapter cleanup planning, collection tracking, and efficient replay structure.",
       "categoryLabel": "BUILDING & BASES",
       "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
+      "whatIsDescription": "Guides to route setup, chapter planning, and collection management so each replay pass yields faster and cleaner completion.",
       "why": "Why build bases?",
       "whySteps": {
         "step1Title": "Create Safe Spaces",
         "step1Description": "Establish secure bases for storage and crafting operations",
         "step2Title": "Manage Resources",
         "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step3Title": "Refine Replays",
+        "step3Description": "Use your notes and collected hints to finish missed discoveries with fewer retries"
       },
       "featured": "Featured & Essential",
       "all": "All Building Guides"
@@ -562,10 +640,10 @@
       "title": "Yoshi and the Mysterious Book Support",
       "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
       "metaTitle": "Yoshi and the Mysterious Book Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Yoshi and the Mysterious Book including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
+      "metaDescription": "Get technical support for Yoshi and the Mysterious Book including Switch 2 setup tips, performance tuning, and issue troubleshooting.",
       "categoryLabel": "TECHNICAL SUPPORT",
       "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
+      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues across Nintendo Switch 2 play modes.",
       "why": "Why check support?",
       "whySteps": {
         "step1Title": "Fix Technical Issues",
@@ -573,7 +651,7 @@
         "step2Title": "Optimize Performance",
         "step2Description": "Configure settings for best experience on your platform",
         "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step3Description": "Learn about controller settings, storage planning, and Nintendo Switch 2 system requirements"
       },
       "featured": "Featured & Essential",
       "all": "All Support Articles"

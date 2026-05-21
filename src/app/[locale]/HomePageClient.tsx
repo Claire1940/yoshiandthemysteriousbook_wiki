@@ -7,7 +7,6 @@ import {
   Check,
   Eye,
   Hammer,
-  Home,
   Package,
   Sparkles,
 } from "lucide-react";
@@ -631,45 +630,47 @@ export default function HomePageClient({
                 {t.modules.yoshiControlsAndMoves.title}
               </LinkedTitle>
             </h2>
+            <p className="text-[hsl(var(--nav-theme-light))] text-base md:text-lg max-w-3xl mx-auto mb-4">
+              {t.modules.yoshiControlsAndMoves.subtitle}
+            </p>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
               {t.modules.yoshiControlsAndMoves.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.yoshiControlsAndMoves.cards.map(
-              (card: any, index: number) => (
+          <div className="scroll-reveal space-y-4">
+            {t.modules.yoshiControlsAndMoves.steps.map(
+              (move: any, index: number) => (
                 <div
                   key={index}
-                  className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  className="p-5 md:p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
                 >
-                  <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                    <LinkedTitle
-                      linkData={
-                        moduleLinkMap[
-                          `yoshiControlsAndMoves::cards::${index}`
-                        ]
-                      }
-                      locale={locale}
-                    >
-                      {card.name}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground text-sm">
-                    {card.description}
+                  <div className="flex flex-wrap items-center gap-3 mb-3">
+                    <span className="inline-flex h-8 w-8 items-center justify-center rounded-full border border-[hsl(var(--nav-theme)/0.4)] bg-[hsl(var(--nav-theme)/0.15)] text-sm font-bold text-[hsl(var(--nav-theme-light))]">
+                      {move.step}
+                    </span>
+                    <h3 className="font-bold text-lg text-[hsl(var(--nav-theme-light))]">
+                      <LinkedTitle
+                        linkData={
+                          moduleLinkMap[
+                            `yoshiControlsAndMoves::steps::${index}`
+                          ]
+                        }
+                        locale={locale}
+                      >
+                        {move.move}
+                      </LinkedTitle>
+                    </h3>
+                    <span className="text-xs md:text-sm px-2.5 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                      {move.input}
+                    </span>
+                  </div>
+                  <p className="text-sm md:text-base text-muted-foreground mb-2">
+                    {move.whatItDoes}
                   </p>
-                </div>
-              ),
-            )}
-          </div>
-          <div className="scroll-reveal grid grid-cols-2 md:grid-cols-4 gap-4">
-            {t.modules.yoshiControlsAndMoves.highlights.map(
-              (h: string, i: number) => (
-                <div
-                  key={i}
-                  className="p-4 bg-white/5 border border-border rounded-xl text-center hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
-                >
-                  <Home className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
-                  <p className="text-sm">{h}</p>
+                  <p className="text-sm text-muted-foreground">
+                    <span className="text-[hsl(var(--nav-theme-light))] font-medium">Best use:</span>{" "}
+                    {move.bestUse}
+                  </p>
                 </div>
               ),
             )}
@@ -689,37 +690,42 @@ export default function HomePageClient({
                 {t.modules.yoshiReleaseDateAndPlatform.title}
               </LinkedTitle>
             </h2>
+            <p className="text-[hsl(var(--nav-theme-light))] text-base md:text-lg max-w-3xl mx-auto mb-4">
+              {t.modules.yoshiReleaseDateAndPlatform.subtitle}
+            </p>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
               {t.modules.yoshiReleaseDateAndPlatform.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.yoshiReleaseDateAndPlatform.regions.map(
-              (region: any, index: number) => (
+          <div className="scroll-reveal space-y-3">
+            {t.modules.yoshiReleaseDateAndPlatform.items.map(
+              (item: any, index: number) => (
                 <div
                   key={index}
-                  className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  className="p-4 md:p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
                 >
-                  <div className="flex items-center gap-3 mb-3">
-                    <Eye className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                    <h3 className="font-bold">
-                      <LinkedTitle
-                        linkData={
-                          moduleLinkMap[
-                            `yoshiReleaseDateAndPlatform::regions::${index}`
-                          ]
-                        }
-                        locale={locale}
-                      >
-                        {region.name}
-                      </LinkedTitle>
-                    </h3>
-                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
-                      {region.type}
+                  <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2">
+                    <div className="flex items-center gap-2">
+                      <Eye className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                      <h3 className="font-bold">
+                        <LinkedTitle
+                          linkData={
+                            moduleLinkMap[
+                              `yoshiReleaseDateAndPlatform::items::${index}`
+                            ]
+                          }
+                          locale={locale}
+                        >
+                          {item.label}
+                        </LinkedTitle>
+                      </h3>
+                    </div>
+                    <span className="text-sm md:text-base font-semibold text-[hsl(var(--nav-theme-light))]">
+                      {item.value}
                     </span>
                   </div>
-                  <p className="text-muted-foreground text-sm">
-                    {region.description}
+                  <p className="text-muted-foreground text-sm mt-2 md:mt-1">
+                    {item.details}
                   </p>
                 </div>
               ),
@@ -740,38 +746,43 @@ export default function HomePageClient({
                 {t.modules.yoshiBossesAndCharacters.title}
               </LinkedTitle>
             </h2>
+            <p className="text-[hsl(var(--nav-theme-light))] text-base md:text-lg max-w-3xl mx-auto mb-4">
+              {t.modules.yoshiBossesAndCharacters.subtitle}
+            </p>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
               {t.modules.yoshiBossesAndCharacters.intro}
             </p>
           </div>
           <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.yoshiBossesAndCharacters.creatures.map(
-              (c: any, index: number) => (
+            {t.modules.yoshiBossesAndCharacters.items.map(
+              (item: any, index: number) => (
                 <div
                   key={index}
                   className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
                 >
                   <div className="mb-3">
-                    <span
-                      className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy", "Major Threat", "Elite Threat"].includes(c.role) ? "bg-orange-500/10 border-orange-500/30 text-orange-400" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
-                    >
-                      {c.role}
+                    <span className="text-xs px-2 py-1 rounded-full border bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]">
+                      {item.role}
                     </span>
                   </div>
                   <h3 className="font-bold mb-2">
                     <LinkedTitle
                       linkData={
                         moduleLinkMap[
-                          `yoshiBossesAndCharacters::creatures::${index}`
+                          `yoshiBossesAndCharacters::items::${index}`
                         ]
                       }
                       locale={locale}
                     >
-                      {c.name}
+                      {item.name}
                     </LinkedTitle>
                   </h3>
-                  <p className="text-muted-foreground text-sm">
-                    {c.description}
+                  <p className="text-muted-foreground text-sm mb-3">
+                    {item.description}
+                  </p>
+                  <p className="text-sm text-muted-foreground">
+                    <span className="text-[hsl(var(--nav-theme-light))] font-medium">Why it matters:</span>{" "}
+                    {item.whyItMatters}
                   </p>
                 </div>
               ),
@@ -792,11 +803,14 @@ export default function HomePageClient({
                 {t.modules.yoshiReviewAndBuyingGuide.title}
               </LinkedTitle>
             </h2>
+            <p className="text-[hsl(var(--nav-theme-light))] text-base md:text-lg max-w-3xl mx-auto mb-4">
+              {t.modules.yoshiReviewAndBuyingGuide.subtitle}
+            </p>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
               {t.modules.yoshiReviewAndBuyingGuide.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.yoshiReviewAndBuyingGuide.items.map(
               (item: any, index: number) => (
                 <div
@@ -821,23 +835,14 @@ export default function HomePageClient({
                       {item.name}
                     </LinkedTitle>
                   </h3>
-                  <p className="text-muted-foreground text-sm">
-                    {item.description}
+                  <p className="text-sm text-muted-foreground mb-2">
+                    {item.summary}
+                  </p>
+                  <p className="text-sm text-muted-foreground">
+                    <span className="text-[hsl(var(--nav-theme-light))] font-medium">Buying advice:</span>{" "}
+                    {item.buyingAdvice}
                   </p>
                 </div>
-              ),
-            )}
-          </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.yoshiReviewAndBuyingGuide.unlockMilestones.map(
-              (m: string, i: number) => (
-                <span
-                  key={i}
-                  className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm"
-                >
-                  <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
-                  {m}
-                </span>
               ),
             )}
           </div>
