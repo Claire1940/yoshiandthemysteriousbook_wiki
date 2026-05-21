@@ -10,7 +10,16 @@
       "twitterDescription": "Yoshi and the Mysterious Book Wiki with beginner tips, walkthroughs, creature discoveries, and Smiley Flower routes."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "platform": "Platform",
+    "purchase": "Purchase",
+    "review": "Review",
+    "multiplayer": "Multiplayer",
+    "guide": "Guide",
+    "bosses": "Bosses",
+    "features": "Features"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -536,125 +545,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Yoshi and the Mysterious Book Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced creature interactions, chapter routing, and collectible planning.",
-      "metaTitle": "Yoshi and the Mysterious Book Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Yoshi and the Mysterious Book guides covering beginner tips, chapter progression, creature experimentation, and expert collectible strategies.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, chapter progression, creature interactions, and advanced discovery techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Yoshi and the Mysterious Book Release",
+      "description": "Track the latest Yoshi and the Mysterious Book release date details, trailer drops, demo availability, and preorder timing.",
+      "metaTitle": "Yoshi and the Mysterious Book Release - Date, Trailer, Demo, Preorder",
+      "metaDescription": "Follow Yoshi and the Mysterious Book release updates with confirmed date windows, trailer summaries, demo status, and preorder milestones.",
+      "categoryLabel": "RELEASE NEWS",
+      "whatIs": "What is Release?",
+      "whatIsDescription": "The release section tracks launch timing, official trailer beats, demo availability, and preorder checkpoints so you can follow the game timeline without missing key announcements.",
+      "why": "Why check release updates?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand core movement and creature interaction systems to avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven chapter routes to progress quickly through each habitat",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Track Launch Timing",
+        "step1Description": "Monitor confirmed dates and milestone changes across official storefront and publisher updates.",
+        "step2Title": "Catch New Trailers Fast",
+        "step2Description": "See what each trailer reveals about chapters, mechanics, and feature scope before launch day.",
+        "step3Title": "Plan Preorder Windows",
+        "step3Description": "Use preorder and bonus posts to decide when and where to secure your copy."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Release Articles"
     },
-    "crafting": {
-      "title": "Yoshi and the Mysterious Book Crafting",
-      "description": "Master item utility, collectibles, and tool-focused progression systems used across Yoshi and the Mysterious Book habitats.",
-      "metaTitle": "Yoshi and the Mysterious Book Crafting - Item Systems & Utility Routes",
-      "metaDescription": "Master Yoshi and the Mysterious Book item systems. Learn how tokens, hints, and chapter rewards support progression and collectibles.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "This section focuses on practical item progression, including tokens, chapter rewards, and the best ways to use utility tools while exploring habitats.",
-      "why": "Why master crafting?",
+    "platform": {
+      "title": "Yoshi and the Mysterious Book Platform",
+      "description": "Compare Yoshi and the Mysterious Book platform support, Switch models, physical copy options, and key card details.",
+      "metaTitle": "Yoshi and the Mysterious Book Platform - Switch Support & Edition Details",
+      "metaDescription": "Check Yoshi and the Mysterious Book platform coverage, Switch model compatibility, physical edition notes, and key card information.",
+      "categoryLabel": "PLATFORM INFO",
+      "whatIs": "What is Platform?",
+      "whatIsDescription": "The platform section covers where the game runs, edition formats, and hardware compatibility details so you can choose the right setup before buying.",
+      "why": "Why review platform details?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools and utility options that support exploration and cleaner routes",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how to prioritize item rewards and hints based on your chapter goals",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use resource planning to maximize discovery progress with minimal backtracking"
+        "step1Title": "Confirm Compatibility",
+        "step1Description": "Verify which Nintendo Switch hardware variants support the title and play modes.",
+        "step2Title": "Pick the Right Format",
+        "step2Description": "Compare digital, physical, and key card formats to match your preferred ownership model.",
+        "step3Title": "Avoid Purchase Mistakes",
+        "step3Description": "Check region and packaging notes early so you do not buy the wrong edition."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Platform Articles"
     },
-    "items": {
-      "title": "Yoshi and the Mysterious Book Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Yoshi and the Mysterious Book Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Yoshi and the Mysterious Book including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "purchase": {
+      "title": "Yoshi and the Mysterious Book Purchase",
+      "description": "Review Yoshi and the Mysterious Book purchase options across major retailers, current price points, and bundle listings.",
+      "metaTitle": "Yoshi and the Mysterious Book Purchase - Price, Retailers, and Buy Options",
+      "metaDescription": "Find Yoshi and the Mysterious Book purchase guides with price checks, retailer comparisons, and practical buy recommendations.",
+      "categoryLabel": "BUYING GUIDE",
+      "whatIs": "What is Purchase?",
+      "whatIsDescription": "The purchase section compares store listings, pricing, and stock conditions so you can buy from the right channel with fewer surprises.",
+      "why": "Why compare purchase options?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how each item type supports exploration, puzzle solving, and cleaner habitat routes",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Compare Store Pricing",
+        "step1Description": "Scan price differences across Nintendo and major retail listings in one place.",
+        "step2Title": "Watch Bundle Value",
+        "step2Description": "Identify which listings include bonuses, gift cards, or delivery perks worth paying for.",
+        "step3Title": "Buy at the Right Time",
+        "step3Description": "Use deal timing and stock checks to avoid overpaying during demand spikes."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Purchase Articles"
     },
-    "biomes": {
-      "title": "Yoshi and the Mysterious Book Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Yoshi and the Mysterious Book Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Yoshi and the Mysterious Book habitats, chapter themes, and environmental features to find collectibles and hidden discovery routes.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "review": {
+      "title": "Yoshi and the Mysterious Book Review",
+      "description": "Read Yoshi and the Mysterious Book review roundups, critic score coverage, previews, and hands-on impressions.",
+      "metaTitle": "Yoshi and the Mysterious Book Review - Critics, Previews, and Hands-On",
+      "metaDescription": "Browse Yoshi and the Mysterious Book review analysis with critic takes, preview context, and hands-on opinion breakdowns.",
+      "categoryLabel": "REVIEWS & SCORES",
+      "whatIs": "What is Review?",
+      "whatIsDescription": "The review section consolidates critic scores, preview notes, and player-facing impressions to help you understand strengths, weaknesses, and expected audience fit.",
+      "why": "Why read reviews here?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "See Cross-Source Consensus",
+        "step1Description": "Compare top outlets and score trends without opening ten separate tabs.",
+        "step2Title": "Understand Real Tradeoffs",
+        "step2Description": "Break down pacing, challenge level, and feature depth before you commit time or money.",
+        "step3Title": "Choose Based on Fit",
+        "step3Description": "Use perspective-based notes to decide whether this game matches your play style."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Review Articles"
     },
-    "building": {
-      "title": "Yoshi and the Mysterious Book Building",
-      "description": "Master route setup habits, chapter cleanup planning, and collection tracking to improve exploration efficiency.",
-      "metaTitle": "Yoshi and the Mysterious Book Building - Route Setup & Collection Planning",
-      "metaDescription": "Master Yoshi and the Mysterious Book route setup with chapter cleanup planning, collection tracking, and efficient replay structure.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to route setup, chapter planning, and collection management so each replay pass yields faster and cleaner completion.",
-      "why": "Why build bases?",
+    "multiplayer": {
+      "title": "Yoshi and the Mysterious Book Multiplayer",
+      "description": "Learn Yoshi and the Mysterious Book multiplayer support, co-op setup, couch play limits, and player count rules.",
+      "metaTitle": "Yoshi and the Mysterious Book Multiplayer - Co-op, Couch Play, Player Count",
+      "metaDescription": "Get Yoshi and the Mysterious Book multiplayer guides for co-op modes, local setup, and two-player expectations.",
+      "categoryLabel": "MULTIPLAYER MODES",
+      "whatIs": "What is Multiplayer?",
+      "whatIsDescription": "The multiplayer section explains co-op features, local sharing rules, and player-count constraints so teams can set expectations before starting a session.",
+      "why": "Why check multiplayer guides?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Refine Replays",
-        "step3Description": "Use your notes and collected hints to finish missed discoveries with fewer retries"
+        "step1Title": "Know Supported Modes",
+        "step1Description": "Confirm whether local co-op, couch play, or online options are available on your setup.",
+        "step2Title": "Set Up Faster",
+        "step2Description": "Follow practical steps for controllers, profiles, and in-game join flow without trial-and-error.",
+        "step3Title": "Avoid Session Friction",
+        "step3Description": "Understand limits early so every player knows what to expect before starting."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Multiplayer Articles"
     },
-    "support": {
-      "title": "Yoshi and the Mysterious Book Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Yoshi and the Mysterious Book Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Yoshi and the Mysterious Book including Switch 2 setup tips, performance tuning, and issue troubleshooting.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues across Nintendo Switch 2 play modes.",
-      "why": "Why check support?",
+    "guide": {
+      "title": "Yoshi and the Mysterious Book Guide",
+      "description": "Use Yoshi and the Mysterious Book guide walkthroughs for chapter order, beginner flow, controls, and completion pacing.",
+      "metaTitle": "Yoshi and the Mysterious Book Guide - Walkthrough, Chapters, and Controls",
+      "metaDescription": "Follow Yoshi and the Mysterious Book guide content for chapter progression, gameplay basics, and efficient completion routes.",
+      "categoryLabel": "GAMEPLAY GUIDE",
+      "whatIs": "What is Guide?",
+      "whatIsDescription": "The guide section focuses on actionable walkthroughs, chapter-by-chapter progression tips, controls, and pacing advice for new and returning players.",
+      "why": "Why use these guides?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about controller settings, storage planning, and Nintendo Switch 2 system requirements"
+        "step1Title": "Start Cleanly",
+        "step1Description": "Get a reliable opening route and control fundamentals for your first sessions.",
+        "step2Title": "Progress by Chapter",
+        "step2Description": "Follow practical chapter order and objective flow to reduce dead ends and backtracking.",
+        "step3Title": "Finish Faster",
+        "step3Description": "Use completion notes to prioritize high-impact tasks and close progress gaps efficiently."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Guide Articles"
+    },
+    "bosses": {
+      "title": "Yoshi and the Mysterious Book Bosses",
+      "description": "Study Yoshi and the Mysterious Book bosses, major encounters, no-damage strategies, and character-specific battle patterns.",
+      "metaTitle": "Yoshi and the Mysterious Book Bosses - Encounters, Patterns, and Tips",
+      "metaDescription": "Browse Yoshi and the Mysterious Book bosses guides with encounter breakdowns, pattern reads, and safer clear strategies.",
+      "categoryLabel": "BOSS BATTLES",
+      "whatIs": "What is Bosses?",
+      "whatIsDescription": "The bosses section catalogs major fights, pattern behavior, and encounter-specific tactics so you can prepare loadout and movement plans before each battle.",
+      "why": "Why review boss guides?",
+      "whySteps": {
+        "step1Title": "Learn Attack Patterns",
+        "step1Description": "Understand phase transitions, tells, and punish windows before entering hard encounters.",
+        "step2Title": "Reduce Failed Attempts",
+        "step2Description": "Apply route-specific tips to avoid common wipes and recover faster after mistakes.",
+        "step3Title": "Push Challenge Runs",
+        "step3Description": "Use no-damage and consistency notes when targeting cleaner clears."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Bosses Articles"
+    },
+    "features": {
+      "title": "Yoshi and the Mysterious Book Features",
+      "description": "Explore Yoshi and the Mysterious Book features, creature systems, interaction mechanics, and standout gameplay tools.",
+      "metaTitle": "Yoshi and the Mysterious Book Features - Creatures and Gameplay Systems",
+      "metaDescription": "Discover Yoshi and the Mysterious Book features including creature mechanics, interaction systems, and core gameplay highlights.",
+      "categoryLabel": "GAME FEATURES",
+      "whatIs": "What is Features?",
+      "whatIsDescription": "The features section explains signature systems such as creature interactions, discovery mechanics, and standout tools that define the game experience.",
+      "why": "Why learn feature systems?",
+      "whySteps": {
+        "step1Title": "Understand Core Mechanics",
+        "step1Description": "See how creature and environment systems connect to puzzle-solving and chapter progress.",
+        "step2Title": "Play More Efficiently",
+        "step2Description": "Use system-level knowledge to make better moment-to-moment decisions in each habitat.",
+        "step3Title": "Spot Hidden Depth",
+        "step3Description": "Identify optional interactions and advanced behaviors that are easy to miss in first runs."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Features Articles"
     }
   }
 }

@@ -1,0 +1,175 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Yoshi y el Libro Misterioso de Bowser Jr: Guía de Historia y Jugabilidad",
+  description: "Explora el papel de Bowser Jr. en Yoshi y el Libro Misterioso. Aprende sobre la historia, las mecánicas de descubrimiento de criaturas y los recorridos por capítulos.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e40af/fff?text=Yoshi+and+the+Mysterious+Book+Bowser+Jr",
+  date: "2026-05-21",
+  author: "Equipo de Wiki de Yoshi y el Libro Misterioso"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Rol de Bowser Jr.**: Actúa como el personaje que provoca la historia, descubriendo el libro sensible, Mr. E, y siendo absorbido accidentalmente por sus páginas.
+- **Nueva Mecánica**: El **Coletazo** permite a Yoshi cargar criaturas y utilizar sus rasgos únicos para resolver puzles ambientales.
+- **Enfoque en la Exploración**: A diferencia de títulos anteriores, **no hay límite de tiempo** en los niveles, lo que anima a los jugadores a estudiar a fondo los hábitats de las criaturas.
+- **Exclusivo para Switch 2**: Este juego fue desarrollado por Good-Feel usando Unreal Engine específicamente para Nintendo Switch 2.
+- **Objetivo Principal**: Recoger estrellas haciendo "Grandes Descubrimientos" y registrando los rasgos de las criaturas en las páginas de Mr. E.
+</Callout>
+
+<Section icon={Target} title="El Incidente Desencadenante: Yoshi y el Libro Misterioso de Bowser Jr">
+
+La aventura de **Yoshi y el Libro Misterioso de Bowser Jr.** comienza en las polvorientas bibliotecas del Castillo de Bowser. Una tarde, Bowser Jr. se topa con un tomo mágico inconsciente conocido como Mister Enciclopedia, o "Mr. E" para abreviar. Mientras hojea el libro, Bowser Jr. ve una ilustración del legendario Pájaro Desconcertante volando sobre la Isla de Yoshi. Impulsado por la curiosidad y la travesura, toma el libro y vuela hacia la isla en su Junior Clown Car. Sin embargo, una misteriosa lupa unida al libro provoca un destello de luz, succionando a Bowser Jr. directamente a las páginas y dejando que su Clown Car se estrelle en la isla de abajo.
+
+| Especificación del Juego | Detalles |
+| :--- | :--- |
+| **Desarrollador** | Good-Feel |
+| **Plataforma** | Nintendo Switch 2 |
+| **Fecha de Lanzamiento** | 21 de mayo de 2026 |
+| **Motor** | Unreal Engine |
+| **Estilo Visual** | Ilustración de Papel / Animación de Baja Tasa de Cuadros |
+
+<Callout type="info" title="Desarrollo de la Trama">
+Yoshi descubre el Junior Clown Car estrellado y el libro sensible. Como Mr. E no puede leer sus propias páginas, Yoshi debe usar la lupa mágica para entrar en el libro, rescatar a Bowser Jr. y catalogar las criaturas que viven en el mundo de papel.
+</Callout>
+
+Más adelante en el viaje, los jugadores se encontrarán con Kamek, quien también busca al joven príncipe. La narrativa se centra en la interacción entre la naturaleza servicial de Yoshi y la presencia caótica de la familia Koopa dentro de estos hábitats mágicos.
+
+</Section>
+
+<Section icon={Swords} title="Jugabilidad Central y Nuevas Mecánicas">
+
+Aunque el juego conserva habilidades clásicas como el Salto Aleteo y el Golpe de Suelo, introduce una mecánica revolucionaria: el **Coletazo**. Este movimiento permite a Yoshi agarrar criaturas específicas y llevarlas a su espalda. En lugar de simplemente convertir a los enemigos en huevos, ahora puedes aprovechar sus habilidades innatas para interactuar con el mundo de formas nunca vistas en la serie.
+
+<CardGrid cols={3}>
+  <Card title="Utilidad del Coletazo">
+    Lleva criaturas como Crazee Dayzees para hacer florecer las flores cercanas y revelar caminos ocultos.
+  </Card>
+  <Card title="Impulsos de Desplazamiento">
+    Monta en ciertas criaturas como tablas de surf o flota dentro de burbujas generadas por Glubbits.
+  </Card>
+  <Card title="Estrellas de Descubrimiento">
+    Interactúa con el entorno usando criaturas cargadas para desbloquear "Grandes Descubrimientos".
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Modo Sin Derrota">
+En esta entrega, Yoshi no pierde salud cuando es golpeado por criaturas y no puede ser derrotado. Este cambio enfatiza el aspecto de "estudio y descubrimiento" sobre el plataformeo de supervivencia tradicional.
+</Callout>
+
+| Conjunto de Movimientos | Entrada | Efecto |
+| :--- | :--- | :--- |
+| **Agarre de Lengua** | Botón B | Come objetos o pequeños enemigos para crear huevos. |
+| **Coletazo** | Botón X | Agarra y carga una criatura para usar su habilidad única. |
+| **Salto Aleteo** | Mantener A | Flota brevemente para alcanzar plataformas más altas. |
+| **Golpe de Suelo** | Abajo + A | Rompe rocas o activa interruptores. |
+| **Lanzamiento de Huevo** | Botón R | Apunta y dispara huevos a objetos o rasgos del fondo. |
+
+</Section>
+
+<Section icon={Map} title="Descubrimiento de Criaturas Paso a Paso">
+
+Progresar a través de las páginas de Mr. E requiere un enfoque científico. Cada nivel representa un hábitat que comienza sin nombre. Tu objetivo principal es estudiar a la criatura residente observando sus rasgos e interacciones.
+
+<Steps>
+  <Step num="1" title="Entrar al Hábitat">
+    Usa la lupa de Mr. E para saltar a una página específica. El hábitat inicialmente no tendrá nombre y será misterioso.
+  </Step>
+  <Step num="2" title="Interactuar y Observar">
+    Experimenta con las criaturas locales. Intenta comiéndolas, saltando sobre ellas o usando el Coletazo para cargarlas.
+  </Step>
+  <Step num="3" title="Desencadenar Descubrimientos de Rasgos">
+    Los rasgos se registran cuando ves que una criatura reacciona al entorno. Por ejemplo, ver a un Swirm desenrollarse al ser tocado.
+  </Step>
+  <Step num="4" title="El Gran Descubrimiento">
+    Encuentra el "Gran Descubrimiento" para el hábitat (vale tres estrellas) para señalar el final del nivel y desbloquear la siguiente área.
+  </Step>
+  <Step num="5" title="Nombrar y Registrar">
+    Sal del libro y observa cómo los rasgos se escriben en Mr. E. Luego puedes elegir un nombre para la criatura o usar el sugerido.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Pistas con Fichas">
+Si tienes dificultades para encontrar un rasgo específico, usa las fichas recolectadas durante el nivel para comprar pistas. Estas inicialmente muestran una silueta, pero se pueden mejorar para revelar detalles completos.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Resumen de Capítulos y Entornos">
+
+Hay 10 capítulos distintos en *Yoshi y el Libro Misterioso*, cada uno con un ecosistema único. Bowser Jr. y Kamek aparecen periódicamente a lo largo de estos capítulos, a menudo causando interrupciones que Yoshi debe solucionar.
+
+| Capítulo | Entorno | Criaturas Clave |
+| :--- | :--- | :--- |
+| **1: Bosques Salvajes** | Bosque exuberante | Crazee Dayzee, Bunchabee |
+| **2: Cumbres** | Picos nevados | Plumebrella, Floofly |
+| **3: Costa** | Océano/Playa | Casterway, Weewoo |
+| **4: Valle Asentado** | Pueblo rural | Shy Guy, Detonut |
+| **5: País de Bichos** | Insectos gigantes | Wooshwing, Swirm |
+| **6: Isla Remota** | Isla tropical | Goonie, Huffin Puffin |
+| **7: Subterráneo** | Cuevas de cristal | Tumball, Wiggaline |
+| **8: Árboles Más Altos** | Dosel alto | Planta Piraña, Bounseed |
+| **9: Mini-mundo** | Escala micro | Scatterpuff, Floofly |
+| **10: La Luna** | Superficie lunar | Blorp, Raven |
+
+<Callout type="warning" title="Descubrimientos Perdibles">
+Algunos descubrimientos en capítulos posteriores pueden ayudarte a aprender sobre criaturas en capítulos anteriores que podrías haberte perdido. Siempre revisa tu progreso en Mr. E.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Amiibo y Coleccionables">
+
+El juego cuenta con un amplio soporte para figuras Amiibo, lo que añade una capa diaria de "adivinación" a la experiencia. Al tocar una figura compatible, Mr. E leerá tu fortuna y te otorgará moneda del juego según el resultado.
+
+<Checklist
+  id="collectibles-list"
+  title="Objetivos de Completista:"
+  items={[
+    "Encuentra los 10 Grandes Descubrimientos en cada capítulo",
+    "Recoge suficientes fichas para desbloquear cada pista en Mr. E",
+    "Descubre los 8 colores de Yoshi jugables",
+    "Completa el registro de criaturas con nombres personalizados",
+    "Escanea un Amiibo diariamente para maximizar la ganancia de fichas"
+  ]}
+/>
+
+<Callout type="tip" title="Fichas Amiibo">
+Las fichas obtenidas de las fortunas son esenciales para los jugadores que quieren completar el juego al 100% sin pasar horas adivinando las interacciones de las criaturas. Guarda tus fichas para los capítulos "Mini-mundo" y "La Luna", ya que esos rasgos son los más complejos de activar.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo encaja Bowser Jr. en la jugabilidad de Yoshi y el Libro Misterioso?",
+    answer: "Bowser Jr. es principalmente un motor narrativo que aparece en varios hábitats. Aunque no es jugable, su presencia a menudo crea obstáculos o desencadena cambios ambientales específicos que Yoshi debe sortear para completar sus estudios de criaturas."
+  },
+  {
+    question: "¿Puede Yoshi ser derrotado en este juego?",
+    answer: "No. Los desarrolladores de Good-Feel diseñaron el juego para ser una experiencia de exploración relajante. Yoshi no tiene una barra de salud y no puede ser derrotado por enemigos o peligros, lo que permite a los jugadores centrarse por completo en el descubrimiento."
+  },
+  {
+    question: "¿Cuál es el propósito del movimiento Coletazo?",
+    answer: "El Coletazo permite a Yoshi recoger y cargar criaturas en su espalda. Esto es esencial para resolver puzles, ya que muchas criaturas tienen habilidades únicas (como volar o hacer florecer flores) que Yoshi puede usar mientras las carga."
+  },
+  {
+    question: "¿Hay diferentes configuraciones de dificultad?",
+    answer: "Aunque no hay configuraciones de dificultad tradicionales, el juego ofrece 'pistas' que se pueden comprar con fichas del juego. Esto permite a los jugadores más jóvenes encontrar rasgos difíciles fácilmente, mientras que los veteranos pueden optar por encontrar todo manualmente."
+  }
+]} />
+
+<Callout type="success" title="Veredicto Final">
+**Yoshi y el Libro Misterioso de Bowser Jr.** ofrece una visión refrescante de la franquicia al eliminar la presión de los límites de tiempo y la gestión de la salud, reemplazándolos con un gratificante sistema de descubrimiento científico y encantadores gráficos estilo paper-craft.
+</Callout>
+
+</Section>
