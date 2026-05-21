@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -37,14 +37,25 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
-
-  // 获取 SEO 翻译
-  const t = await getTranslations("seo.home");
+    process.env.NEXT_PUBLIC_SITE_URL || "https://yoshiandthemysteriousbook.wiki";
+  const localizedUrl = locale === "en" ? siteUrl : `${siteUrl}/${locale}`;
+  const siteTitle = "Yoshi and the Mysterious Book Wiki - Guides & Creatures";
+  const siteDescription =
+    "Yoshi and the Mysterious Book Wiki with beginner guides, creature discoveries, chapters, collectibles, and Nintendo Switch 2 info.";
+  const heroImageUrl = `${siteUrl}/images/hero.webp`;
 
   return {
-    title: t("title"),
-    description: t("description"),
+    title: siteTitle,
+    description: siteDescription,
+    keywords: [
+      "Yoshi and the Mysterious Book",
+      "Nintendo Switch 2",
+      "Yoshi guide",
+      "chapters",
+      "creatures",
+      "collectibles",
+      "discoveries",
+    ],
     robots: {
       index: true,
       follow: true,
@@ -59,25 +70,25 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       type: "website",
       locale: locale,
-      url: locale === "en" ? siteUrl : `${siteUrl}/${locale}`,
-      siteName: "Lucid Blocks Wiki",
-      title: t("ogTitle"),
-      description: t("ogDescription"),
+      url: localizedUrl,
+      siteName: "Yoshi and the Mysterious Book Wiki",
+      title: siteTitle,
+      description: siteDescription,
       images: [
         {
-          url: `${siteUrl}/images/hero.webp`,
+          url: heroImageUrl,
           width: 1920,
           height: 1080,
-          alt: "Lucid Blocks - Surreal Voxel Sandbox",
+          alt: "Yoshi and the Mysterious Book - Storybook Discovery Adventure",
         },
       ],
     },
     twitter: {
       card: "summary_large_image",
-      title: t("twitterTitle"),
-      description: t("twitterDescription"),
-      images: [`${siteUrl}/images/hero.webp`],
-      creator: "@lucidblocks",
+      title: siteTitle,
+      description: siteDescription,
+      images: [heroImageUrl],
+      creator: "@NintendoAmerica",
     },
     icons: {
       icon: [

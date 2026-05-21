@@ -86,6 +86,9 @@ export default function HomePageClient({
   const t = useMessages() as any;
   const siteUrl =
     process.env.NEXT_PUBLIC_SITE_URL || "https://yoshiandthemysteriousbook.wiki";
+  const featuredVideoId = "1d7IdzUK2MM";
+  const featuredVideoWatchUrl = `https://www.youtube.com/watch?v=${featuredVideoId}`;
+  const featuredVideoEmbedUrl = `https://www.youtube.com/embed/${featuredVideoId}`;
 
   // Structured data
   const structuredData = {
@@ -163,8 +166,8 @@ export default function HomePageClient({
           "Official Nintendo overview trailer for Yoshi and the Mysterious Book on Nintendo Switch 2.",
         uploadDate: "2026-03-10",
         thumbnailUrl: `${siteUrl}/images/hero.webp`,
-        embedUrl: "https://www.youtube.com/embed/1d7IdzUK2MM",
-        url: "https://www.youtube.com/watch?v=1d7IdzUK2MM",
+        embedUrl: featuredVideoEmbedUrl,
+        url: featuredVideoWatchUrl,
       },
     ],
   };
@@ -237,15 +240,17 @@ export default function HomePageClient({
 
             {/* CTA Buttons */}
             <div className="mb-10 flex flex-col justify-center gap-3 sm:flex-row md:mb-12 md:gap-4">
-              <button
-                onClick={() => scrollToSection("beginner-guide")}
+              <a
+                href={featuredVideoWatchUrl}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
                            bg-[hsl(var(--nav-theme))] hover:bg-[hsl(var(--nav-theme)/0.9)]
                            text-white rounded-lg font-semibold text-base md:text-lg transition-colors"
               >
                 <BookOpen className="w-5 h-5" />
                 {t.hero.getFreeCodesCTA}
-              </button>
+              </a>
               <a
                 href="https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/"
                 target="_blank"
@@ -272,7 +277,7 @@ export default function HomePageClient({
         <div className="scroll-reveal container mx-auto max-w-6xl">
           <div className="relative overflow-hidden rounded-2xl">
             <VideoFeature
-              videoId="1d7IdzUK2MM"
+              videoId={featuredVideoId}
               title="Yoshi and the Mysterious Book – Overview Trailer – Nintendo Switch 2"
             />
           </div>
@@ -1330,7 +1335,7 @@ export default function HomePageClient({
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    <MessageCircle className="w-4 h-4" /> Discord{" "}
+                    <MessageCircle className="w-4 h-4" /> Nintendo Support{" "}
                     <ExternalLink className="w-3 h-3" />
                   </a>
                   <a
@@ -1430,7 +1435,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/"
+                    href="https://www.instagram.com/NintendoAmerica/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"

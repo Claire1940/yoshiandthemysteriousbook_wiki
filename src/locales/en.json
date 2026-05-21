@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Storybook Discovery Platformer",
+    "title": "Yoshi and the Mysterious Book Wiki",
+    "description": "Explore Yoshi's storybook adventure with chapter guides, creature discoveries, collectibles, character info, amiibo tips, and Nintendo Switch 2 release details.",
+    "getFreeCodesCTA": "Watch Trailer on YouTube",
+    "playOnNintendoCTA": "Buy on Nintendo",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "May 21, 2026",
+        "label": "Release Date"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "Nintendo Switch 2",
+        "label": "Platform"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "19.6 GB",
+        "label": "File Size"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "14",
+        "label": "Supported Languages"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Explore Yoshi and the Mysterious Book?",
+    "description": "Watch official updates and jump into the Nintendo Switch 2 adventure.",
+    "joinCommunity": "Watch on YouTube",
+    "joinGame": "Buy on Nintendo Switch 2"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Yoshi and the Mysterious Book Wiki",
+    "description": "Your complete resource hub for Yoshi and the Mysterious Book chapters, creatures, discoveries, collectibles, and gameplay guides.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "YouTube Channel",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit Community",
+    "steamStore": "Instagram",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Yoshi and the Mysterious Book Wiki. Not affiliated with Nintendo or the official developers.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
