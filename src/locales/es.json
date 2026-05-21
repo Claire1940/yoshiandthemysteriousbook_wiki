@@ -1,934 +1,709 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de Yoshi and the Mysterious Book - Guías, Criaturas y Capítulos",
+      "description": "La Wiki de Yoshi and the Mysterious Book cubre consejos para principiantes, guías de capítulos, descubrimientos de criaturas, rutas de Flores Sonrientes, controles y detalles de lanzamiento para Nintendo Switch 2.",
+      "keywords": "Yoshi and the Mysterious Book, Yoshi wiki, guía, criaturas, Flores Sonrientes, Nintendo Switch 2",
+      "ogTitle": "Wiki de Yoshi and the Mysterious Book - Guías, Criaturas y Capítulos",
+      "ogDescription": "La Wiki de Yoshi and the Mysterious Book cubre consejos para principiantes, guías de capítulos, descubrimientos de criaturas, rutas de Flores Sonrientes, controles y detalles de lanzamiento para Nintendo Switch 2.",
+      "twitterTitle": "Wiki de Yoshi and the Mysterious Book - Guías, Criaturas y Capítulos",
+      "twitterDescription": "Wiki de Yoshi and the Mysterious Book con consejos para principiantes, guías, descubrimientos de criaturas y rutas de Flores Sonrientes."
     }
   },
   "nav": {
-    "release": "Release",
-    "platform": "Platform",
-    "purchase": "Purchase",
-    "review": "Review",
-    "multiplayer": "Multiplayer",
-    "guide": "Guide",
-    "bosses": "Bosses",
-    "features": "Features"
+    "release": "Lanzamiento",
+    "platform": "Plataforma",
+    "purchase": "Comprar",
+    "review": "Reseña",
+    "multiplayer": "Multijugador",
+    "guide": "Guía",
+    "bosses": "Jefes",
+    "features": "Características"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
-    "switchLanguage": "Cambiar idioma",
-    "switchTheme": "Cambiar tema",
-    "lightMode": "Modo claro",
-    "darkMode": "Modo oscuro",
-    "notFound": "Página no encontrada",
+    "playNow": "Jugar en Steam",
+    "switchLanguage": "Cambiar Idioma",
+    "switchTheme": "Cambiar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Oscuro",
+    "notFound": "Página No Encontrada",
     "notFoundDescription": "La página que buscas no existe.",
-    "backToHome": "Volver al inicio",
-    "relatedArticles": "Artículos relacionados",
-    "readMore": "Leer más",
+    "backToHome": "Volver al Inicio",
+    "relatedArticles": "Artículos Relacionados",
+    "readMore": "Leer Más",
     "articlesComingSoon": "Artículos próximamente"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Plataformas de Descubrimiento de Cuentos",
+    "title": "Wiki de Yoshi and the Mysterious Book",
+    "description": "Explora la aventura de Yoshi en el libro de cuentos con guías de capítulos, descubrimientos de criaturas, coleccionables, información de personajes, consejos de Amiibo y detalles de lanzamiento para Nintendo Switch 2.",
+    "getFreeCodesCTA": "Ver Tráiler en YouTube",
+    "playOnNintendoCTA": "Comprar en Nintendo",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "21 de mayo de 2026",
+        "label": "Fecha de Lanzamiento"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "Nintendo Switch 2",
+        "label": "Plataforma"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "19.6 GB",
+        "label": "Tamaño del Archivo"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "14",
+        "label": "Idiomas Soportados"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Tráiler de Yoshi and the Mysterious Book",
+    "description": "Mira el tráiler oficial de Yoshi and the Mysterious Book y salta a los módulos de la página de inicio capítulo por capítulo a continuación."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Yoshi and the Mysterious Book",
+    "titleHighlight": "Navegador de Módulos",
+    "subtitle": "Salta directamente a cada módulo de la página de inicio de Yoshi and the Mysterious Book y desplázate a la sección correspondiente.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Guía para Principiantes de Yoshi and the Mysterious Book",
+        "description": "Bucle de inicio, hábitos de descubrimiento y enfoque de progresión temprana."
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "title": "Guía Completa de Yoshi and the Mysterious Book",
+        "description": "Orden de capítulos, objetivos de hábitat y planificación de rutas limpias."
       },
       {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "icon": "Sparkles",
+        "title": "Guía de Descubrimiento de Criaturas de Yoshi and the Mysterious Book",
+        "description": "Reacciones de criaturas, uso del hábitat e interacciones de rompecabezas."
       },
       {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "icon": "Star",
+        "title": "Ubicaciones de Flores Sonrientes de Yoshi and the Mysterious Book",
+        "description": "Rutas de coleccionables, lugares ocultos y notas de limpieza de repetición."
       },
       {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "icon": "Keyboard",
+        "title": "Controles y Movimientos de Yoshi and the Mysterious Book",
+        "description": "Acciones principales, uso de combos y flujo de control de movimiento."
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Fecha de Lanzamiento y Plataforma de Yoshi and the Mysterious Book",
+        "description": "Momento del lanzamiento, alcance de la plataforma y datos de la edición."
+      },
+      {
+        "icon": "Users",
+        "title": "Jefes y Personajes de Yoshi and the Mysterious Book",
+        "description": "Resúmenes de roles para Mr. E, aliados de Yoshi y rivales."
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Reseña y Guía de Compra de Yoshi and the Mysterious Book",
+        "description": "Adecuación de la compra, perfil de juego familiar y resumen de valor."
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+    "yoshiBeginnerGuide": {
+      "title": "Guía para principiantes de Yoshi and the Mysterious Book",
+      "displayType": "pasos",
+      "intro": "Comienza aprendiendo el ciclo de exploración de Yoshi and the Mysterious Book: entra en los hábitats, prueba cada interacción con las criaturas, registra los descubrimientos y convierte los descubrimientos en progreso de capítulo.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Conoce a Mr. E y lee la primera página",
+          "description": "Sigue las indicaciones de Mr. E y trata cada página como un espacio de descubrimiento en lugar de una ruta de speedrun."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Escanea hábitats con la lupa",
+          "description": "Mueve la lente por cada página y entra primero en el hábitat más activo para revelar el comportamiento central de las criaturas al principio."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Prueba el conjunto completo de movimientos de Yoshi en cada criatura",
+          "description": "Usa Tragar, Lanzar Huevo, Salto Aleteo, Golpe de Suelo, Golpe de Cola y Correr para activar reacciones únicas."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Prioriza los grandes descubrimientos, luego la limpieza",
+          "description": "Primero, completa el objetivo principal del hábitat, luego vuelve a visitar para encontrar reacciones ocultas y coleccionables perdidos."
+        },
+        {
+          "title": "Reutiliza el conocimiento de las criaturas en todos los capítulos",
+          "description": "Lleva criaturas conocidas a nuevos contextos para desbloquear eventos adicionales y rutas alternativas más adelante en el libro."
+        },
+        {
+          "title": "Guarda Estrellas, Flores Sonrientes y Fichas",
+          "description": "Usa las Estrellas para la progresión, las Flores Sonrientes para las herramientas y las Fichas para las pistas de descubrimiento cuando las rutas se detengan."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "El progreso en Yoshi and the Mysterious Book proviene de experimentos, no solo de la velocidad de movimiento.",
+        "Las repeticiones son valiosas porque los estados de las páginas evolucionan después del progreso del capítulo.",
+        "La colocación del Golpe de Cola y el momento de las burbujas resuelven muchos bloqueos de ruta tempranos.",
+        "Consulta las notas de Mr. E después de cada hábitat para evitar perder descubrimientos de alto valor."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+    "yoshiWalkthrough": {
+      "title": "Guía de Yoshi and the Mysterious Book",
+      "displayType": "tarjetas",
+      "intro": "Esta guía de Yoshi and the Mysterious Book sigue el flujo de los capítulos por objetivos de hábitat, luego agrega puntos de control de repetición para descubrimientos perdidos y Flores Sonrientes.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Páginas iniciales y primer hábitat",
+          "description": "Conoce a Mr. E, activa el flujo de la lupa y completa el primer ciclo de descubrimiento."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Ruta del Capítulo 1 Bosques Salvajes",
+          "description": "Mapea las interacciones de las criaturas en orden y desbloquea entradas de página de seguimiento a través de cadenas de descubrimiento."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Ruta de Crazee Dayzee y Floración",
+          "description": "Usa los desencadenantes de transporte, alimentación y floración para revelar patrones de utilidad de los capítulos al principio."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Limpieza del hábitat de Scatterpuff y Glubbit",
+          "description": "Despeja las rutas laterales ocultas y los caminos verticales asistidos por burbujas antes de finalizar el progreso del capítulo."
+        },
+        {
+          "name": "Ruta de Bunchabee y comprobaciones de cuevas",
+          "description": "Resuelve las interacciones de las colmenas y las comprobaciones de plataformas de cuevas para asegurar coleccionables difíciles de ver."
+        },
+        {
+          "name": "Pase de repetición y finalización de la enciclopedia",
+          "description": "Usa las pistas de Mr. E y el soporte de Fichas para cerrar las brechas de descubrimiento restantes de manera eficiente."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Completa primero el descubrimiento principal de cada hábitat",
+        "Termina una limpieza de repetición antes de abrir nuevos capítulos",
+        "Rastrea las reacciones de las criaturas que se repiten en los hábitats"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+    "yoshiCreatureDiscoveryGuide": {
+      "title": "Guía de descubrimiento de criaturas de Yoshi and the Mysterious Book",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Cada criatura de Yoshi and the Mysterious Book actúa como una herramienta de rompecabezas. Rastrea dónde aparece cada una, qué acción la desencadena y cómo apoya la progresión de la ruta.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Crazee Dayzee",
+          "type": "Utilidad de floración",
+          "description": "Lleva a Yoshi en la espalda, reacciona a la comida y desbloquea interacciones de floración ligadas a descubrimientos."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Glubbit",
+          "type": "Movilidad de burbujas",
+          "description": "Crea plataformas de burbujas para movimiento vertical y rutas ocultas en plataformas superiores."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Bunchabee",
+          "type": "Rompecabezas de colmena",
+          "description": "Las capturas de lengua y las interacciones de colmena bloquean varios objetivos de hábitat y rutas de coleccionables."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Scatterpuff",
+          "type": "Activador de ruta secreta",
+          "description": "Asociado con hábitats de múltiples caminos donde las comprobaciones laterales a menudo ocultan Flores Sonrientes."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Croakaoke",
+          "type": "Activador de secuencia",
+          "description": "El orden y el momento del salto afectan los patrones de reacción musical que desbloquean nuevas notas."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Thudd",
+          "type": "Criatura de cambio de estado",
+          "description": "El comportamiento cambia después de las acciones de inhalación, lo que permite interacciones alternativas y resultados de descubrimiento."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+    "yoshiSmileyFlowerLocations": {
+      "title": "Ubicaciones de las Flores Sonrientes en Yoshi and the Mysterious Book",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Usa este mapa de Flores Sonrientes de Yoshi and the Mysterious Book para despejar rutas ocultas, recompensas activadas por criaturas y caminos de limpieza posteriores al despeje.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "Ruta de Recompensa por Inhalación de Criaturas",
+          "role": "Recompensa de Reacción",
+          "description": "Activa interacciones de inhalación con variantes de Crazee Dayzee para generar recompensas de Flores Sonrientes ocultas."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "Conjunto de Área Secreta de Scatterpuff",
+          "role": "Camino Oculto",
+          "description": "Dos flores se encuentran fuera de la ruta principal, por lo que los pasillos laterales deben revisarse antes de completar la etapa."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Plataforma Superior de Hoja de Glubbit",
+          "role": "Ruta Vertical",
+          "description": "La sincronización de las burbujas desbloquea la ruta de la hoja superior derecha donde aparece uno de los errores más fáciles."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "Ruta de Plataforma de Cueva de Bunchabee",
+          "role": "Revisión de Cueva",
+          "description": "Inspecciona las plataformas de hojas inferiores debajo de la entrada de la cueva y elimina los bloqueadores de Bunchabee."
+        },
+        {
+          "name": "Revisión de Floración de Crazee Dayzee",
+          "role": "Ruta de Interacción",
+          "description": "Lleva a Crazee Dayzee a través de grupos de flores para revelar activadores coleccionables adicionales."
+        },
+        {
+          "name": "Repetición de Hábitat Post-Despeje",
+          "role": "Pase de Limpieza",
+          "description": "Realiza un segundo pase después de completar el objetivo principal usando las pistas y Tokens de Mr. E."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Realiza la limpieza de coleccionables inmediatamente después de cada despeje de capítulo para reducir el retroceso.",
+        "Usa notas de ruta para cada hábitat para que los caminos laterales ocultos no se vuelvan a probar a ciegas.",
+        "Trata los activadores de floración y las rutas de burbujas como verificaciones coleccionables dedicadas, no como acciones opcionales de sabor.",
+        "Gasta Tokens en las entradas finales perdidas solo después de completar todas las rutas visibles."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
-        {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
-        },
-        {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
-        },
-        {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
-        }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
-        },
-        {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
-        },
-        {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
-        {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
-        },
-        {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
-        },
-        {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
-        },
-        {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
-        },
-        {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
-        }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
-        {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
-        },
-        {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
-        },
-        {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
-        },
-        {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
-        {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
-        },
-        {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
-        },
-        {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
-        {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
-        },
-        {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
-        },
-        {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
-        },
-        {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
-        },
-        {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
-        },
-        {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
-      "faqs": [
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
-        },
-        {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
-        },
-        {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
-        {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
-        },
-        {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
-        },
-        {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
-        },
-        {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
-        {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
-        },
-        {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
-        },
-        {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+    "yoshiControlsAndMoves": {
+      "title": "Controles y Movimientos de Yoshi and the Mysterious Book",
+      "displayType": "stepByStep",
+      "subtitle": "Aprende los principales movimientos, acciones de criaturas y descubrimiento de Yoshi, incluyendo el Coletazo, Tragar, lanzamiento de huevos, Salto Aleteo, Salto Bomba, Sprint y Observar.",
+      "intro": "Yoshi and the Mysterious Book se basa en la experimentación con criaturas. La mejor manera de progresar es probar cada movimiento en criaturas, objetos y características del hábitat, y luego observar cómo reacciona el entorno.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "step": 1,
+          "move": "Coletazo",
+          "input": "Presiona X",
+          "whatItDoes": "Coloca una criatura u objeto en la espalda de Yoshi.",
+          "bestUse": "Úsalo en criaturas que puedan viajar con Yoshi, luego muévete, corre o repite el movimiento para lanzarlas o activar una acción especial."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "step": 2,
+          "move": "Tragar",
+          "input": "Presiona B",
+          "whatItDoes": "Usa la lengua de Yoshi para probar o tragar ciertas criaturas.",
+          "bestUse": "Intenta Tragar en nuevas criaturas para aprender reacciones, crear huevos o descubrir comportamientos ocultos."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "step": 3,
+          "move": "Lanzar Huevos",
+          "input": "Usar después de que Tragar cree un huevo",
+          "whatItDoes": "Lanza huevos a criaturas, objetos y objetivos ambientales.",
+          "bestUse": "Usa los huevos para provocar reacciones de criaturas, descubrir misterios y alcanzar descubrimientos que un simple salto no puede resolver."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "step": 4,
+          "move": "Salto Aleteo",
+          "input": "Mantén presionado A mientras estás en el aire",
+          "whatItDoes": "Permite a Yoshi flotar brevemente después de saltar o caer.",
+          "bestUse": "Úsalo para cruzar huecos, corregir saltos y permanecer cerca de criaturas aéreas o plataformas móviles."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "step": 5,
+          "move": "Salto Bomba",
+          "input": "Inclina el Stick Izquierdo hacia abajo mientras estás en el aire",
+          "whatItDoes": "Hace que Yoshi caiga directamente para golpear el suelo o una criatura debajo.",
+          "bestUse": "Úsalo en criaturas y puntos del suelo para sacudir objetos, aplastar objetivos o activar reacciones del hábitat."
+        },
+        {
+          "step": 6,
+          "move": "Sprint",
+          "input": "Sigue moviéndote en la misma dirección",
+          "whatItDoes": "Yoshi comienza a correr más rápido después de moverse constantemente.",
+          "bestUse": "Usa Sprint para cruzar espacios más amplios y probar cómo reacciona una criatura que viaja en la espalda de Yoshi a mayor velocidad."
+        },
+        {
+          "step": 7,
+          "move": "Observar y Agacharse",
+          "input": "Pausa, observa o agáchate con el Stick Izquierdo hacia abajo",
+          "whatItDoes": "Te permite estudiar el comportamiento de las criaturas y mantenerte fuera del camino.",
+          "bestUse": "Úsalo cuando un descubrimiento no sea obvio. Muchos hábitats recompensan la observación antes de actuar."
+        }
+      ]
+    },
+    "yoshiReleaseDateAndPlatform": {
+      "title": "Fecha de lanzamiento y plataforma de Yoshi and the Mysterious Book",
+      "displayType": "table",
+      "subtitle": "Consulta la fecha de lanzamiento, plataforma, modos compatibles, tamaño de archivo, clasificación y detalles de compra de la aventura de Yoshi en Switch 2.",
+      "intro": "Yoshi and the Mysterious Book se lanzó como un título de Nintendo Switch 2 el 21 de mayo de 2026. El juego se centra en el descubrimiento para un solo jugador, el estudio de criaturas y las plataformas de rompecabezas dentro del libro viviente de Mr. E.",
+      "items": [
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "21 de mayo de 2026",
+          "details": "Listado por Nintendo en EE. UU. y Reino Unido como 21 de mayo de 2026."
+        },
+        {
+          "label": "Plataforma",
+          "value": "Nintendo Switch 2",
+          "details": "El juego está listado como un título de Nintendo Switch 2 y se promociona como solo jugable en Nintendo Switch 2."
+        },
+        {
+          "label": "Editor",
+          "value": "Nintendo",
+          "details": "Nintendo es el editor oficial."
+        },
+        {
+          "label": "Género",
+          "value": "Acción, Aventura, Plataformas",
+          "details": "Las páginas oficiales de la tienda lo clasifican como una aventura de plataformas."
+        },
+        {
+          "label": "Jugadores",
+          "value": "Sistema único (1)",
+          "details": "Diseñado como una aventura para un solo jugador."
+        },
+        {
+          "label": "Modos de juego compatibles",
+          "value": "TV, Sobremesa, Portátil",
+          "details": "Se enumeran los tres modos de juego de Nintendo Switch 2."
+        },
+        {
+          "label": "Tamaño de descarga",
+          "value": "19.6 GB",
+          "details": "Nintendo lista el tamaño del archivo del juego como 19.6 GB."
+        },
+        {
+          "label": "Clasificación por edad",
+          "value": "ESRB: Violencia de fantasía leve; PEGI: 7",
+          "details": "Los listados de EE. UU. y Reino Unido muestran clasificaciones por edad aptas para toda la familia con notas de violencia de fantasía."
+        },
+        {
+          "label": "Nintendo Switch Online",
+          "value": "Guardar datos en la nube compatible",
+          "details": "La página oficial de Nintendo lista el soporte para guardar datos en la nube."
+        },
+        {
+          "label": "Soporte amiibo",
+          "value": "Los amiibo compatibles pueden dar fortunas y fichas diarias",
+          "details": "Las fichas se pueden usar para desbloquear pistas sobre descubrimientos."
+        },
+        {
+          "label": "Opciones de compra",
+          "value": "Ediciones digitales y físicas",
+          "details": "Los precios de revisión de EE. UU. listan el digital en aproximadamente $59.99 y el físico en aproximadamente $69.99, con el precio final dependiendo de la región y el minorista."
+        }
+      ]
+    },
+    "yoshiBossesAndCharacters": {
+      "title": "Jefes y personajes de Yoshi and the Mysterious Book",
+      "displayType": "cardList",
+      "subtitle": "Conoce a Yoshi, Mr. E, Bowser Jr., Kamek y las curiosas criaturas que dan forma a cada hábitat.",
+      "intro": "La historia comienza cuando Mr. E, una enciclopedia parlante, aterriza en la Isla de Yoshi después de perder el rastro de lo que hay dentro de sus páginas. Yoshi entra al libro para estudiar criaturas, mientras Bowser Jr. y Kamek causan problemas mientras buscan algo dentro de Mr. E.",
+      "items": [
+        {
+          "name": "Yoshi",
+          "role": "Héroe jugable",
+          "description": "Yoshi lidera la aventura saltando a las páginas de Mr. E, explorando hábitats, estudiando criaturas y usando movimientos como Tragar, lanzar huevos, Salto Aleteo, Golpe de Suelo, Sprint y Coletazo.",
+          "whyItMatters": "La mayoría de los descubrimientos provienen de usar los movimientos de Yoshi de diferentes maneras en lugar de simplemente llegar al final de una etapa."
+        },
+        {
+          "name": "Mr. E",
+          "role": "Guía y Libro Viviente",
+          "description": "Mr. E es el Señor Enciclopedia, un misterioso libro parlante que se estrella en la Isla de Yoshi y necesita ayuda para recordar las criaturas dentro de sus páginas.",
+          "whyItMatters": "Él enmarca todo el juego en torno a la investigación de criaturas, la exploración de páginas, nombres, pistas y descubrimientos."
+        },
+        {
+          "name": "Bowser Jr.",
+          "role": "Rival de la historia",
+          "description": "Bowser Jr. aparece en los hábitats y está buscando algo dentro de Mr. E. La historia de apertura lo conecta con el libro misterioso y la búsqueda del Pájaro Desconcertante.",
+          "whyItMatters": "Sus apariciones añaden conflicto a la aventura, que de otro modo se centraría en el descubrimiento."
+        },
+        {
+          "name": "Kamek",
+          "role": "Compañero de Bowser Jr.",
+          "description": "Kamek aparece junto a Bowser Jr. y ayuda a crear problemas durante el viaje a través de las páginas de Mr. E.",
+          "whyItMatters": "Kamek apoya el papel de Bowser Jr. como el obstáculo recurrente en la exploración de Yoshi."
+        },
+        {
+          "name": "Bewilder Bird",
+          "role": "Objetivo de la historia",
+          "description": "El Pájaro Desconcertante está ligado a la búsqueda de Bowser Jr. y le da a la historia un misterio central más allá de simplemente catalogar criaturas.",
+          "whyItMatters": "Explica por qué Bowser Jr. está interesado en Mr. E y mantiene la trama principal en movimiento."
+        },
+        {
+          "name": "Crazee Dayzee",
+          "role": "Criatura recurrente",
+          "description": "Crazee Dayzee es una criatura parecida a una flor que se encuentra en múltiples hábitats en diferentes colores.",
+          "whyItMatters": "Es uno de los primeros ejemplos de cómo cargar, saltar o golpear criaturas puede revelar nuevas reacciones."
+        },
+        {
+          "name": "Criaturas del hábitat",
+          "role": "Sujetos de descubrimiento",
+          "description": "Los capítulos de Mr. E contienen docenas de criaturas con diferentes habilidades, como cultivar cosechas, soplar burbujas, cantar, flotar, ser lanzadas como dardos o actuar como bumeranes.",
+          "whyItMatters": "Cada criatura puede abrir nuevas rutas, desencadenar descubrimientos o enseñarte cómo funcionan otros hábitats."
+        },
+        {
+          "name": "Encuentros con jefes y rivales",
+          "role": "Desafío de baja presión",
+          "description": "El juego incluye encuentros de historia relacionados con Bowser Jr., Kamek y los hábitats de las criaturas, pero el enfoque general se mantiene en la resolución de rompecabezas, la exploración y el descubrimiento en lugar de un combate difícil.",
+          "whyItMatters": "Los jugadores que busquen un juego relajado de Yoshi deben esperar un desafío suave, mientras que los jugadores que deseen peleas de jefes difíciles pueden encontrarlo más ligero."
+        }
+      ]
+    },
+    "yoshiReviewAndBuyingGuide": {
+      "title": "Reseña y Guía de Compra de Yoshi and the Mysterious Book",
+      "displayType": "cardList",
+      "subtitle": "Una guía de compra práctica para los jugadores que deciden si la aventura de Yoshi en Switch 2, centrada en el descubrimiento, vale la pena.",
+      "intro": "Las reseñas describen Yoshi and the Mysterious Book como un encantador, acogedor y exploratorio juego de plataformas y puzles. Su mayor atractivo es experimentar con criaturas y rellenar las páginas de Mr. E, mientras que sus principales inconvenientes son el desafío ligero, el diseño de un solo jugador y los problemas ocasionales de ritmo o control.",
+      "items": [
+        {
+          "name": "Veredicto General",
+          "type": "Resumen de la Reseña",
+          "summary": "Una encantadora y creativa aventura de plataformas y puzles en 2D construida alrededor del descubrimiento, la experimentación y el comportamiento de las criaturas.",
+          "buyingAdvice": "Vale la pena comprarlo si quieres un juego de plataformas relajado de Nintendo con un fuerte sentido de la curiosidad."
+        },
+        {
+          "name": "Mejor Para",
+          "type": "Ajuste del Jugador",
+          "summary": "Fans de Yoshi, jugadores más jóvenes, jugadores de juegos acogedores, completistas y cualquiera que disfrute buscando secretos en cada rincón.",
+          "buyingAdvice": "Una excelente opción si prefieres la exploración y las pequeñas sorpresas a los saltos difíciles o los jefes castigadores."
+        },
+        {
+          "name": "Puntos Fuertes Principales",
+          "type": "Pros",
+          "summary": "Los críticos elogian los gráficos de libro de cuentos, el rendimiento fluido en Switch 2, la variedad de criaturas, el ciclo de descubrimiento y el estilo de movimiento familiar de Yoshi.",
+          "buyingAdvice": "Cómpralo por las interacciones con las criaturas, los puzles de hábitat y la experimentación lúdica."
+        },
+        {
+          "name": "Puntos Débiles Principales",
+          "type": "Contras",
+          "summary": "Las quejas comunes incluyen el diseño de un solo jugador, tiempos de carga más largos, algunos niveles confusos, controles ocasionalmente delicados y una historia que puede parecer superficial.",
+          "buyingAdvice": "Espera una oferta si principalmente quieres cooperativo, alta dificultad o una historia profunda."
+        },
+        {
+          "name": "Dificultad",
+          "type": "Nivel de Desafío",
+          "summary": "El juego es más fácil y menos estresante que muchos juegos de plataformas tradicionales. El desafío se centra más en el descubrimiento creativo que en la habilidad estricta de las plataformas.",
+          "buyingAdvice": "Bueno para niños y jugadores casuales; menos ideal si quieres peleas de jefes exigentes o etapas que requieran mucha precisión."
+        },
+        {
+          "name": "Valor de Exploración",
+          "type": "Gancho de Rejugabilidad",
+          "summary": "Cada capítulo anima a los jugadores a regresar, estudiar las criaturas de nuevo, desbloquear pistas y rellenar las páginas tipo enciclopedia.",
+          "buyingAdvice": "Vale la pena si disfrutas de los descubrimientos tipo lista de verificación, las reacciones ocultas y la colección de criaturas."
+        },
+        {
+          "name": "Elección de Precio",
+          "type": "Opción de Compra",
+          "summary": "Los precios de reseña en EE. UU. sitúan la edición digital en torno a $59.99 y la edición física en torno a $69.99, con precios que varían según la región y el minorista.",
+          "buyingAdvice": "Elige la edición digital por el precio más bajo, o la física si prefieres coleccionar cartuchos de Nintendo Switch 2."
+        },
+        {
+          "name": "Recomendación Final",
+          "type": "Comprar o Saltar",
+          "summary": "Cómpralo por el descubrimiento acogedor, los gráficos encantadores y un nuevo giro en Yoshi. Sáltalo o espera si quieres un juego de plataformas exigente, multijugador o una aventura más centrada en el combate.",
+          "buyingAdvice": "Es mejor tratarlo como un juego de exploración relajado, no como un desafío de plataformas hardcore."
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Yoshi and the Mysterious Book",
+    "titleHighlight": "Preguntas Frecuentes",
+    "subtitle": "Preguntas clave que los jugadores hacen antes y después de comenzar Yoshi and the Mysterious Book.",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Yoshi and the Mysterious Book se centra en el combate?",
+        "answer": "Yoshi and the Mysterious Book se centra principalmente en el descubrimiento, con las interacciones con las criaturas y la experimentación con el hábitat impulsando la progresión."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cómo funcionan los descubrimientos en Yoshi and the Mysterious Book?",
+        "answer": "Los descubrimientos de Yoshi and the Mysterious Book son registrados por Mr. E y desbloquean nuevas rutas de capítulo, pistas y oportunidades de coleccionables."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Yoshi and the Mysterious Book recompensa la rejugabilidad de los hábitats?",
+        "answer": "Sí. Las repeticiones de Yoshi and the Mysterious Book son fundamentales para las Flores Sonrientes perdidas, las reacciones ocultas y la finalización de la enciclopedia."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
-      },
-      {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
-      },
-      {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Qué debo leer primero en esta wiki de Yoshi and the Mysterious Book?",
+        "answer": "Comienza con el módulo de la Guía para Principiantes de Yoshi and the Mysterious Book, luego sigue los módulos de la Guía y las Flores Sonrientes."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para explorar Yoshi and the Mysterious Book?",
+    "description": "Usa el navegador de módulos de arriba para saltar a guías, descubrimientos y rutas de coleccionables.",
+    "joinCommunity": "Visita las actualizaciones de Nintendo",
+    "joinGame": "Abrir Nintendo Store"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de Yoshi and the Mysterious Book",
+    "description": "Tu centro de recursos completo para los capítulos, criaturas, descubrimientos, coleccionables y guías de juego de Yoshi and the Mysterious Book.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Canal de YouTube",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "steamCommunity": "Comunidad de Reddit",
+    "steamStore": "Instagram",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Yoshi and the Mysterious Book Wiki. No afiliado con Nintendo ni con los desarrolladores oficiales.",
     "disclaimer": "Sitio web de recursos no oficial creado por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "release": {
+      "title": "Lanzamiento de Yoshi and the Mysterious Book",
+      "description": "Sigue los últimos detalles de la fecha de lanzamiento de Yoshi and the Mysterious Book, estrenos de tráileres, disponibilidad de demos y tiempos de preventa.",
+      "metaTitle": "Lanzamiento de Yoshi and the Mysterious Book - Fecha, Tráiler, Demo, Preventa",
+      "metaDescription": "Sigue las actualizaciones de lanzamiento de Yoshi and the Mysterious Book con ventanas de fechas confirmadas, resúmenes de tráileres, estado de la demo e hitos de preventa.",
+      "categoryLabel": "NOTICIAS DE LANZAMIENTO",
+      "whatIs": "¿Qué es el Lanzamiento?",
+      "whatIsDescription": "La sección de lanzamiento rastrea los tiempos de salida, los momentos clave de los tráileres oficiales, la disponibilidad de demos y los puntos de control de preventa para que puedas seguir la cronología del juego sin perderte anuncios clave.",
+      "why": "¿Por qué consultar las actualizaciones de lanzamiento?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Rastrea los tiempos de lanzamiento",
+        "step1Description": "Monitorea las fechas confirmadas y los cambios en los hitos a través de las actualizaciones de la tienda oficial y del editor.",
+        "step2Title": "Mira los nuevos tráileres rápido",
+        "step2Description": "Mira lo que revela cada tráiler sobre los capítulos, las mecánicas y el alcance de las funciones antes del día del lanzamiento.",
+        "step3Title": "Planifica los periodos de preventa",
+        "step3Description": "Usa las publicaciones de preventa y bonificaciones para decidir cuándo y dónde asegurar tu copia."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías"
+      "all": "Todos los artículos de lanzamiento"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "platform": {
+      "title": "Plataforma de Yoshi and the Mysterious Book",
+      "description": "Compara el soporte de plataformas de Yoshi and the Mysterious Book, modelos de Switch, opciones de copias físicas y detalles de tarjetas de claves.",
+      "metaTitle": "Plataforma de Yoshi and the Mysterious Book - Soporte de Switch y detalles de edición",
+      "metaDescription": "Consulta la cobertura de plataformas de Yoshi and the Mysterious Book, la compatibilidad de modelos de Switch, notas de la edición física e información de tarjetas de claves.",
+      "categoryLabel": "INFO DE PLATAFORMA",
+      "whatIs": "¿Qué es la Plataforma?",
+      "whatIsDescription": "La sección de plataforma cubre dónde se ejecuta el juego, los formatos de edición y los detalles de compatibilidad de hardware para que puedas elegir la configuración adecuada antes de comprar.",
+      "why": "¿Por qué revisar los detalles de la plataforma?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Confirma la compatibilidad",
+        "step1Description": "Verifica qué variantes de hardware de Nintendo Switch admiten el título y los modos de juego.",
+        "step2Title": "Elige el formato correcto",
+        "step2Description": "Compara los formatos digital, físico y de tarjeta de claves para que coincidan con tu modelo de propiedad preferido.",
+        "step3Title": "Evita errores de compra",
+        "step3Description": "Consulta las notas de región y empaque con anticipación para no comprar la edición equivocada."
       },
       "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "all": "Todos los artículos de plataforma"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "purchase": {
+      "title": "Compra de Yoshi and the Mysterious Book",
+      "description": "Revisa las opciones de compra de Yoshi and the Mysterious Book en los principales minoristas, puntos de precio actuales y listados de paquetes.",
+      "metaTitle": "Compra de Yoshi and the Mysterious Book - Precio, minoristas y opciones de compra",
+      "metaDescription": "Encuentra guías de compra de Yoshi and the Mysterious Book con verificaciones de precios, comparaciones de minoristas y recomendaciones prácticas de compra.",
+      "categoryLabel": "GUÍA DE COMPRA",
+      "whatIs": "¿Qué es Compra?",
+      "whatIsDescription": "La sección de compra compara los listados de las tiendas, los precios y las condiciones de stock para que puedas comprar en el canal adecuado con menos sorpresas.",
+      "why": "¿Por qué comparar opciones de compra?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Comparar precios de tiendas",
+        "step1Description": "Escanea las diferencias de precios entre Nintendo y los principales listados de minoristas en un solo lugar.",
+        "step2Title": "Vigilar el valor de los paquetes",
+        "step2Description": "Identifica qué listados incluyen bonificaciones, tarjetas de regalo o beneficios de entrega por los que vale la pena pagar.",
+        "step3Title": "Comprar en el momento adecuado",
+        "step3Description": "Utiliza el tiempo de las ofertas y las verificaciones de stock para evitar pagar de más durante los picos de demanda."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de compra"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "review": {
+      "title": "Reseña de Yoshi and the Mysterious Book",
+      "description": "Lee resúmenes de reseñas de Yoshi and the Mysterious Book, cobertura de puntuaciones de críticos, avances e impresiones de primera mano.",
+      "metaTitle": "Reseña de Yoshi and the Mysterious Book - Críticos, avances e impresiones",
+      "metaDescription": "Explora el análisis de reseñas de Yoshi and the Mysterious Book con opiniones de críticos, contexto de avances y desgloses de opiniones de primera mano.",
+      "categoryLabel": "RESEÑAS Y PUNTUACIONES",
+      "whatIs": "¿Qué es Reseña?",
+      "whatIsDescription": "La sección de reseñas consolida las puntuaciones de los críticos, las notas de los avances y las impresiones de los jugadores para ayudarte a comprender las fortalezas, debilidades y el ajuste esperado para la audiencia.",
+      "why": "¿Por qué leer reseñas aquí?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Ver el consenso de múltiples fuentes",
+        "step1Description": "Compara los principales medios y las tendencias de puntuación sin abrir diez pestañas separadas.",
+        "step2Title": "Comprender las compensaciones reales",
+        "step2Description": "Desglosa el ritmo, el nivel de desafío y la profundidad de las funciones antes de comprometer tiempo o dinero.",
+        "step3Title": "Elegir según el ajuste",
+        "step3Description": "Utiliza notas basadas en perspectivas para decidir si este juego coincide con tu estilo de juego."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de reseñas"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "multiplayer": {
+      "title": "Multijugador de Yoshi and the Mysterious Book",
+      "description": "Conoce el soporte multijugador de Yoshi and the Mysterious Book, la configuración cooperativa, los límites de juego local y las reglas de número de jugadores.",
+      "metaTitle": "Multijugador de Yoshi and the Mysterious Book - Cooperativo, juego local, número de jugadores",
+      "metaDescription": "Obtén guías multijugador de Yoshi and the Mysterious Book para modos cooperativos, configuración local y expectativas para dos jugadores.",
+      "categoryLabel": "MODOS MULTIJUGADOR",
+      "whatIs": "¿Qué es Multijugador?",
+      "whatIsDescription": "La sección multijugador explica las funciones cooperativas, las reglas de uso compartido local y las restricciones de número de jugadores para que los equipos puedan establecer expectativas antes de comenzar una sesión.",
+      "why": "¿Por qué consultar las guías multijugador?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Conocer los modos compatibles",
+        "step1Description": "Confirma si las opciones de cooperativo local, juego de sofá o en línea están disponibles en tu configuración.",
+        "step2Title": "Configurar más rápido",
+        "step2Description": "Sigue pasos prácticos para controles, perfiles y el flujo de unión en el juego sin prueba y error.",
+        "step3Title": "Evitar fricciones en la sesión",
+        "step3Description": "Comprende los límites temprano para que cada jugador sepa qué esperar antes de comenzar."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los artículos de multijugador"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "guide": {
+      "title": "Guía de Yoshi and the Mysterious Book",
+      "description": "Usa las guías de recorrido de Yoshi and the Mysterious Book para el orden de los capítulos, el flujo para principiantes, los controles y el ritmo de completado.",
+      "metaTitle": "Guía de Yoshi and the Mysterious Book - Recorrido, Capítulos y Controles",
+      "metaDescription": "Sigue el contenido de la guía de Yoshi and the Mysterious Book para la progresión de capítulos, conceptos básicos de juego y rutas de completado eficientes.",
+      "categoryLabel": "GUÍA DE JUEGO",
+      "whatIs": "¿Qué es la Guía?",
+      "whatIsDescription": "La sección de la guía se centra en recorridos prácticos, consejos de progresión capítulo a capítulo, controles y consejos sobre el ritmo para jugadores nuevos y veteranos.",
+      "why": "¿Por qué usar estas guías?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Comienza con buen pie",
+        "step1Description": "Obtén una ruta de apertura fiable y los fundamentos de control para tus primeras sesiones.",
+        "step2Title": "Progresa por capítulos",
+        "step2Description": "Sigue un orden de capítulos práctico y un flujo de objetivos para reducir los callejones sin salida y el retroceso.",
+        "step3Title": "Termina más rápido",
+        "step3Description": "Usa las notas de completado para priorizar tareas de alto impacto y cerrar brechas de progreso de manera eficiente."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los artículos de la guía"
+    },
+    "bosses": {
+      "title": "Jefes de Yoshi and the Mysterious Book",
+      "description": "Estudia los jefes de Yoshi and the Mysterious Book, encuentros principales, estrategias sin daño y patrones de batalla específicos de cada personaje.",
+      "metaTitle": "Jefes de Yoshi and the Mysterious Book - Encuentros, Patrones y Consejos",
+      "metaDescription": "Explora las guías de jefes de Yoshi and the Mysterious Book con desgloses de encuentros, lectura de patrones y estrategias de victoria más seguras.",
+      "categoryLabel": "BATALLAS CONTRA JEFES",
+      "whatIs": "¿Qué es Jefes?",
+      "whatIsDescription": "La sección de jefes cataloga los combates principales, el comportamiento de los patrones y las tácticas específicas de cada encuentro para que puedas preparar tu equipamiento y planes de movimiento antes de cada batalla.",
+      "why": "¿Por qué revisar las guías de jefes?",
+      "whySteps": {
+        "step1Title": "Aprende los patrones de ataque",
+        "step1Description": "Comprende las transiciones de fase, las señales y las ventanas de castigo antes de entrar en encuentros difíciles.",
+        "step2Title": "Reduce los intentos fallidos",
+        "step2Description": "Aplica consejos específicos de la ruta para evitar derrotas comunes y recuperarte más rápido tras los errores.",
+        "step3Title": "Impulsa los retos",
+        "step3Description": "Usa las notas de consistencia y de 'sin daño' cuando busques victorias más limpias."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los artículos de jefes"
+    },
+    "features": {
+      "title": "Características de Yoshi and the Mysterious Book",
+      "description": "Explora las características de Yoshi and the Mysterious Book, los sistemas de criaturas, las mecánicas de interacción y las herramientas de juego destacadas.",
+      "metaTitle": "Características de Yoshi and the Mysterious Book - Criaturas y Sistemas de Juego",
+      "metaDescription": "Descubre las características de Yoshi and the Mysterious Book, incluyendo mecánicas de criaturas, sistemas de interacción y aspectos destacados del juego principal.",
+      "categoryLabel": "CARACTERÍSTICAS DEL JUEGO",
+      "whatIs": "¿Qué es Características?",
+      "whatIsDescription": "La sección de características explica los sistemas distintivos, como las interacciones con criaturas, las mecánicas de descubrimiento y las herramientas destacadas que definen la experiencia de juego.",
+      "why": "¿Por qué aprender los sistemas de características?",
+      "whySteps": {
+        "step1Title": "Comprende las mecánicas principales",
+        "step1Description": "Mira cómo se conectan los sistemas de criaturas y del entorno con la resolución de puzles y el progreso de los capítulos.",
+        "step2Title": "Juega de forma más eficiente",
+        "step2Description": "Usa el conocimiento a nivel de sistema para tomar mejores decisiones momento a momento en cada hábitat.",
+        "step3Title": "Detecta la profundidad oculta",
+        "step3Description": "Identifica interacciones opcionales y comportamientos avanzados que son fáciles de pasar por alto en las primeras partidas."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los artículos de características"
     }
   }
 }
