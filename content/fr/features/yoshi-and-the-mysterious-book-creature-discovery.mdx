@@ -1,0 +1,194 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, BookOpen, Search, MousePointer2 } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Yoshi et le Livre Mystérieux Découverte de Créatures : Guide de Recherche",
+  description: "Maîtrisez le système de découverte de créatures de Yoshi et le Livre Mystérieux. Apprenez à rechercher des traits, à enregistrer des découvertes et à débloquer les 10 chapitres en 2026.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=Creature+Discovery+Guide",
+  date: "2026-05-22",
+  author: "Équipe Wiki de Yoshi et le Livre Mystérieux"
+}
+
+<Callout type="info" title="Guide Rapide">
+- La **découverte de créatures dans Yoshi et le Livre Mystérieux** est la boucle de gameplay principale où les joueurs interagissent avec des créatures sans nom pour enregistrer leurs traits.
+- Une **Interaction Expérimentale** est requise ; vous devez lécher, transporter, sauter sur ou nourrir les créatures pour déclencher des réactions uniques.
+- La **Progression par Étoiles** est obtenue grâce à une recherche réussie, essentielle pour débloquer de nouveaux chapitres dans les pages de M. E.
+- Le **Système de Nomination** vous permet de personnaliser chaque créature que vous découvrez après avoir complété ses objectifs de recherche spécifiques.
+- Les **Jetons d'Indice** peuvent être dépensés pour révéler les silhouettes de découvertes manquantes si vous êtes bloqué dans un habitat.
+</Callout>
+
+<Section icon={Search} title="Maîtriser le Système de Découverte de Créatures">
+
+Le cœur de l'expérience réside dans la mécanique de **découverte de créatures de Yoshi et le Livre Mystérieux**. Contrairement aux jeux de plateforme traditionnels où les ennemis sont de simples obstacles, chaque habitant des pages de M. E. est un sujet de recherche. Yoshi doit s'aventurer dans divers habitats pour étudier ces êtres excentriques, observant comment ils réagissent à l'environnement et aux propres capacités de Yoshi.
+
+**Points Forts de la Vidéo :**
+- **Première Rencontre** : Rencontrer M. E. et apprendre à utiliser la loupe pour entrer dans les habitats.
+- **Bases de l'Interaction** : Démontrer comment manger différents aliments (comme des pommes) modifie les propriétés des créatures.
+- **Mécanismes des Bulles** : Utiliser le "Glubbit" pour créer des plateformes traversables et atteindre des rebords élevés.
+- **Le Journal de Recherche** : Comment les traits découverts sont enregistrés et résumés à la fin d'un niveau.
+
+<YouTubeEmbed videoId="tdOu4yG8ntc" title="Yoshi et le Livre Mystérieux – Découverte de Créatures ! – Nintendo Switch 2" />
+
+La recherche ne consiste pas seulement à observer ; il s'agit d'une participation active. Chaque niveau est un bac à sable ouvert dédié à une créature spécifique. Vous ne "finirez" pas un niveau au sens traditionnel tant que vous n'aurez pas découvert la "Grande Découverte", qui signale généralement l'achèvement de la recherche principale de cette créature.
+
+| Type de Découverte | Description | Récompense |
+| :--- | :--- | :--- |
+| **Trait Physique** | Observations sur l'apparence ou le mouvement de base (par exemple, cracher des bulles). | 1 Étoile |
+| **Réaction Nutritionnelle** | Changements déclenchés par la consommation de fruits ou d'objets spécifiques. | 1 Étoile |
+| **Interaction Environnementale** | Comment la créature affecte le monde (par exemple, faire fleurir des fleurs). | 1 Étoile |
+| **Grande Découverte** | Une avancée mécanique majeure ou un secret caché. | 3 Étoiles |
+
+<Callout type="tip" title="Astuce de Découverte">
+Essayez toujours de transporter les créatures d'une partie du niveau à une autre. Parfois, une découverte ne se déclenche que lorsqu'une créature interagit avec un objet trouvé à l'extrémité de son habitat.
+</Callout>
+
+</Section>
+
+<Section icon={BookOpen} title="Capacités et Traits des Créatures">
+
+Chaque créature dans *Yoshi et le Livre Mystérieux* possède un gimmick mécanique unique. Pour maximiser votre journal de **découverte de créatures de Yoshi et le Livre Mystérieux**, vous devez maîtriser le mouvement "Coup de queue". Cela permet à Yoshi de transporter des créatures sur son dos, acquérant ainsi efficacement leurs pouvoirs pour le déplacement ou la résolution d'énigmes.
+
+<CardGrid cols={3}>
+  <Card title="Glubbit">
+    - **Capacité** : Crache des bulles mousseuses.
+    - **Utilisation** : Les bulles agissent comme des plateformes temporaires ou des pièges pour d'autres objets.
+    - **Découverte** : Le nourrir avec des fruits de couleurs différentes modifie la forme des bulles (par exemple, des cœurs).
+  </Card>
+  <Card title="Crazee Dayzee">
+    - **Capacité** : Aura de pollinisation.
+    - **Utilisation** : En transporter une fait fleurir instantanément les fleurs flétries à proximité.
+    - **Découverte** : Peut être trouvée dans diverses couleurs à travers plusieurs chapitres.
+  </Card>
+  <Card title="Jetpack Jelly">
+    - **Capacité** : Propulsion.
+    - **Utilisation** : Fournit un coup de pouce vertical lorsque Yoshi effectue un saut flottant en la tenant.
+    - **Découverte** : Réagit violemment lorsqu'elle est plongée dans l'eau peu profonde.
+  </Card>
+</CardGrid>
+
+L'interaction est la clé pour remplir les pages de M. E. Vous devriez systématiquement tester chaque mouvement de base sur une nouvelle créature pour voir ce qui fonctionne. Le jeu récompense la curiosité, accordant souvent des timbres pour les interactions les plus banales, comme goûter une créature et découvrir qu'elle a un goût "amer".
+
+| Méthode d'Interaction | Découverte Potentielle | Exemple de Créature |
+| :--- | :--- | :--- |
+| **Lécher/Manger** | Profil gustatif ou changement de couleur. | Glubbit (Devient rose/amer) |
+| **Charge au Sol** | Comportement d'aplatissement ou de division. | Bubblegum Guys (Se multiplient) |
+| **Lancer d'Œuf** | Étourdissement ou déclenchement du vol. | Bunchabee (Laisse tomber des fleurs) |
+| **Transporter (Coup de queue)** | Effets environnementaux passifs. | Crazee Dayzee (Fait fleurir des fleurs) |
+
+<Callout type="warning" title="Avertissement sur la Physique">
+Certaines créatures, comme les toupies ou les insectes à ressort, dépendent d'interactions basées sur la physique qui peuvent être délicates. Assurez-vous d'avoir un chemin dégagé avant de tenter des manœuvres à grande vitesse pour éviter la frustration.
+</Callout>
+
+</Section>
+
+<Section icon={Steps} title="Pas à Pas : Compléter une Page de Recherche">
+
+Pour documenter entièrement une créature et gagner le maximum d'étoiles, vous devez suivre une approche structurée de l'exploration. Manquer un seul trait peut vous empêcher de compléter un chapitre à 100 %, ce qui est vital pour débloquer du contenu de fin de jeu comme les options de personnalisation de l'interface utilisateur.
+
+<Steps>
+  <Step num="1" title="Observation Initiale">
+    Entrez dans l'habitat et observez le comportement naturel de la créature. Se déplace-t-elle selon des motifs ? Interagit-elle avec d'autres PNJ comme les Maskass ? Enregistrez immédiatement le trait de mouvement de base.
+  </Step>
+  <Step num="2" title="Le Test de Goût">
+    Utilisez la langue de Yoshi pour "goûter" la créature. C'est presque toujours une découverte enregistrée. Notez si la créature peut être transformée en œuf ou si elle est trop grande/amère à avaler.
+  </Step>
+  <Step num="3" title="Test Environnemental">
+    Transportez la créature vers divers éléments du niveau. Cherchez des "Fleurs Souriantes" cachées derrière des objets avec lesquels seule cette créature spécifique peut interagir (par exemple, de lourds rochers qui nécessitent une créature au nez foreur).
+  </Step>
+  <Step num="4" title="Nomination Finale">
+    Une fois la Grande Découverte enregistrée, vous sortirez du livre. Vous pouvez maintenant nommer la créature vous-même ou demander une suggestion à M. E. Cela finalise l'entrée dans l'encyclopédie.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Astuce de Nomination">
+Nommer une créature n'est pas seulement cosmétique ; cela vous aide à vous souvenir de quelle créature appartient à quelle capacité lorsque vous atteignez les niveaux d'invocation avancés du Chapitre 6.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Progression et Éléments Déblocables des Chapitres">
+
+Les étoiles que vous collectez lors de vos expéditions de **découverte de créatures de Yoshi et le Livre Mystérieux** sont la monnaie principale de progression. Le livre contient 10 chapitres distincts, chacun avec un thème et un ensemble de créatures uniques. Au fur et à mesure que vous accumulez des étoiles, M. E. vous permettra de tourner de nouvelles pages, révélant des habitats plus complexes.
+
+| Chapitre | Titre | Environnement Principal | Créature Clé |
+| :--- | :--- | :--- | :--- |
+| **1** | Bois Sauvages | Forêt Luxuriante | Crazee Dayzee |
+| **2** | Sommets Montagneux | Pics Enneigés | Phacochère au Nez Foreur |
+| **3** | Bord de Mer | Plage Tropicale | Méduse Jetpack |
+| **6** | Île Lointaine | Jungle Isolée | Totem d'Invocation |
+| **10** | La Lune | Faible Gravité | Snurf de l'Espace |
+
+Au-delà des étoiles, vous devriez également vous concentrer sur la collecte de **Fleurs Souriantes**. Bien qu'elles ne soient pas requises pour les étoiles de "découverte", elles sont le seul moyen de débloquer la fonctionnalité la plus unique du jeu : l'interface utilisateur personnalisable.
+
+<Checklist
+  id="completionist-goals"
+  title="Liste de Contrôle du Complétiste :"
+  items={[
+    "Découvrez les 3 traits de chaque créature des Chapitres 1 à 5",
+    "Trouvez les 6 Fleurs Souriantes dans le niveau 'Île Lointaine'",
+    "Collectez 100 Jetons pour débloquer l'indice 'Radar de Découverte'",
+    "Nommez manuellement chaque créature du livre",
+    "Débloquez le graphique 'Profil de Saveur' pour l'interface utilisateur"
+  ]}
+/>
+
+<Callout type="info" title="Personnalisation de l'Interface Utilisateur">
+Après le Chapitre 6, vous pouvez échanger des Fleurs Souriantes contre des éléments d'interface utilisateur bizarres. Ceux-ci vont des outils utiles comme un Radar à Fleurs aux points de données absurdes comme la "Qualité de l'Eau" ou les graphiques des "Papilles gustatives de Yoshi".
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Stratégies Avancées et Mécaniques Cachées">
+
+À mesure que vous progressez vers la seconde moitié du jeu, plus précisément le Chapitre 6 et au-delà, la boucle de **découverte de créatures de Yoshi et le Livre Mystérieux** introduit une mécanique qui change la donne. Dans certains niveaux, Yoshi acquiert la capacité d'invoquer à volonté toute créature précédemment découverte. Cela recontextualise l'ensemble du jeu, transformant votre recherche précédente en une boîte à outils pour résoudre des énigmes environnementales complexes.
+
+**Conseils de Recherche d'Experts :**
+- **Gestion des Jetons** : Ne thésaurisez pas vos jetons. Dépensez-les en indices pour les "Grandes Découvertes" tôt, car celles-ci sont souvent cachées dans des sections non linéaires de la carte.
+- **Support Amiibo** : Taper n'importe quel Amiibo compatible une fois par jour accorde une "Fortune" de M. E., qui vous récompense avec une quantité significative de jetons pour des indices.
+- **Revisiter les Habitats** : Certaines découvertes sont impossibles à trouver lors de votre première visite. Vous devrez peut-être revenir après avoir appris comment un objet spécifique (comme une noix explosive) fonctionne dans un chapitre ultérieur.
+
+| Récompense | Coût en Jetons | Effet |
+| :--- | :--- | :--- |
+| **Indice Silhouette** | 10 Jetons | Montre la forme d'une découverte manquante. |
+| **Indice Détail** | 25 Jetons | Fournit un indice textuel sur l'interaction nécessaire. |
+| **Indice Localisation** | 50 Jetons | Marque la zone générale de la découverte sur la carte. |
+
+<Callout type="tip" title="Maîtrise de l'Invocation">
+Au Chapitre 6, utilisez la mécanique d'invocation pour combiner les capacités des créatures. Par exemple, invoquez un cracheur de bulles pour créer une plateforme, puis invoquez une créature jetpack pour atteindre des hauteurs auparavant inaccessibles.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="FAQ sur la Découverte de Créatures">
+
+<FAQ items={[
+  {
+    question: "Comment débloquer de nouveaux chapitres dans Yoshi et le Livre Mystérieux ?",
+    answer: "Vous devez collecter des Étoiles en faisant des découvertes. Chaque trait découvert rapporte 1 Étoile, tandis que les 'Grandes Découvertes' rapportent 3 Étoiles. Atteindre des seuils d'Étoiles spécifiques permet à M. E. d'ouvrir de nouvelles pages."
+  },
+  {
+    question: "Yoshi peut-il mourir ou perdre de la santé dans ce jeu ?",
+    answer: "Non. Yoshi ne peut pas être vaincu dans ce jeu. Subir des dégâts de la part des créatures peut interrompre votre recherche, mais il n'y a pas d'écran 'Game Over'. Vous pouvez débloquer un élément d'interface utilisateur de barre de santé plus tard, mais il est purement cosmétique."
+  },
+  {
+    question: "Quel est l'avantage de nommer les créatures ?",
+    answer: "Nommer les créatures les enregistre de manière permanente dans l'encyclopédie de M. E. Cela aide également les joueurs à identifier rapidement les créatures lors de l'utilisation de la mécanique d'invocation introduite au Chapitre 6."
+  },
+  {
+    question: "Comment trouver les Fleurs Souriantes cachées ?",
+    answer: "Les Fleurs Souriantes sont généralement cachées dans des endroits de plateforme classiques, comme derrière des murs cassables ou dans des zones secondaires secrètes. Vous pouvez débloquer un élément d'interface utilisateur de Radar plus tard dans le jeu qui indique les fleurs à proximité."
+  }
+]} />
+
+<Callout type="info" title="Note Finale">
+*Yoshi et le Livre Mystérieux* est sorti le 21 mai 2026 sur Nintendo Switch 2. Pour la meilleure expérience, concentrez-vous sur la joie d'expérimenter plutôt que de simplement cocher des cases !
+</Callout>
+
+</Section>
