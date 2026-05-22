@@ -4,15 +4,15 @@ import deepMerge from 'deepmerge'
 
 // 静态导入所有翻译文件
 import enMessages from '@/locales/en.json'
-import jaMessages from '@/locales/ja.json'
 import esMessages from '@/locales/es.json'
-import deMessages from '@/locales/de.json'
+import frMessages from '@/locales/fr.json'
+import ptMessages from '@/locales/pt.json'
 
 const messages: Record<string, any> = {
 	en: enMessages,
-	ja: jaMessages,
 	es: esMessages,
-	de: deMessages,
+	fr: frMessages,
+	pt: ptMessages,
 }
 
 export default getRequestConfig(async ({ requestLocale }) => {

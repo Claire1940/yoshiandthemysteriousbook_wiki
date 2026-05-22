@@ -163,11 +163,11 @@ export async function getAllContent(
  * 获取所有内容路径（用于 generateStaticParams）
  * 返回格式: [['guide', 'beginner'], ['unit', 'jinwoo'], ...]
  */
-export async function getAllContentPaths(): Promise<string[][]> {
+export async function getAllContentPaths(language: Language = 'en'): Promise<string[][]> {
   const paths: string[][] = []
 
   for (const contentType of CONTENT_TYPES) {
-    const contentDir = path.join(process.cwd(), 'content', 'en', contentType)
+    const contentDir = path.join(process.cwd(), 'content', language, contentType)
 
     const scanDirectory = (dir: string, basePath: string[] = []) => {
       if (!fs.existsSync(dir)) return
@@ -197,8 +197,14 @@ export async function getAllContentPaths(): Promise<string[][]> {
  */
 export async function getAllContentSlugs(
   contentType: ContentType,
-  language: Language
+  language: Language,
+  options?: { includeFallback?: boolean }
 ): Promise<string[]> {
+  if (options?.includeFallback === false) {
+    const contentDir = path.join(process.cwd(), 'content', language, contentType)
+    return getSlugsFromDirectory(contentDir)
+  }
+
   const items = await getAllContent(contentType, language)
   return items.map(item => item.slug)
 }
@@ -214,7 +220,7 @@ export function isValidContentType(type: string): type is ContentType {
  * 验证语言是否有效
  */
 export function isValidLanguage(lang: string): lang is Language {
-  const validLanguages: Language[] = ['en', 'ja', 'es', 'de']
+  const validLanguages: Language[] = ['en', 'es', 'fr', 'pt']
   return validLanguages.includes(lang as Language)
 }
 

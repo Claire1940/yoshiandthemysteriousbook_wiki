@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next'
-import { getAllContent, CONTENT_TYPES, type ContentType } from '@/lib/content'
+import { getAllContent, getAllContentSlugs, CONTENT_TYPES, type ContentType } from '@/lib/content'
 import { routing, type Locale } from '@/i18n/routing'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://yoshiandthemysteriousbook.wiki'
@@ -65,7 +65,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 					})
 				}
 
+				const realSlugs = new Set(
+					await getAllContentSlugs(contentType as ContentType, locale as Locale, { includeFallback: false })
+				)
+
 				for (const article of articles) {
+					if (!realSlugs.has(article.slug)) {
+						continue
+					}
+
 					const articleUrl =
 						locale === 'en'
 							? `${BASE_URL}/${contentType}/${article.slug}`
