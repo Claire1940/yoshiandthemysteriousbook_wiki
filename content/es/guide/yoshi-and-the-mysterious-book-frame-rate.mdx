@@ -1,0 +1,179 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Activity, Monitor } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Tasa de fotogramas de Yoshi and the Mysterious Book: Análisis técnico y guía de rendimiento",
+  description: "Un desglose detallado de la tasa de fotogramas de Yoshi and the Mysterious Book, su estilo visual stop-motion y las optimizaciones de rendimiento para Switch 2.",
+  category: "Guía técnica",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=Frame+Rate+Analysis",
+  date: "2026-05-23",
+  author: "Equipo de la Wiki de Yoshi and the Mysterious Book",
+  keywords: "Yoshi and the Mysterious Book, tasa de fotogramas, rendimiento Switch 2, análisis técnico, stop-motion"
+}
+
+<Callout type="info" title="Guía rápida">
+- **Tasa de fotogramas de Yoshi and the Mysterious Book**: Presenta un rendimiento del motor de **60 FPS** con una **estética stop-motion** intencionada que imita tasas de fotogramas más bajas para las animaciones de los personajes.
+- **Estilo visual**: Utiliza un aspecto único de "lápices de colores" y "manualidades de papel", renderizado a **resolución 4K** en Switch 2 cuando está en modo televisor (docked).
+- **Brecha de rendimiento**: Aunque el modo televisor ofrece una experiencia estable, algunos críticos han notado **texturas granuladas** y caídas menores en el modo portátil.
+- **Optimización**: El juego utiliza un "salto de fotogramas" intencionado en las animaciones para mejorar la sensación de libro de cuentos, lo que puede confundirse con lag técnico.
+- **Beneficios del hardware**: Optimizado específicamente para Switch 2, aprovechando tiempos de carga más rápidos y una mayor densidad de píxeles en comparación con entregas anteriores.
+</Callout>
+
+<Section icon={Monitor} title="Rendimiento técnico y estética visual">
+
+El lanzamiento de **Yoshi and the Mysterious Book** marca un cambio visual significativo para la franquicia. A diferencia de las texturas suaves y plásticas de *Yoshi's Crafted World*, esta nueva entrega adopta un estilo de animación stop-motion estilizado. Al discutir la **tasa de fotogramas de Yoshi and the Mysterious Book**, es esencial distinguir entre el rendimiento del motor del juego y sus elecciones artísticas de animación. El motor busca un tiempo de respuesta constante, pero los movimientos de los personajes son intencionadamente entrecortados para coincidir con el tema del libro de cuentos de "Mr. E".
+
+**Puntos destacados del video:**
+- Vistazo detallado a los diseños creativos de las criaturas y la exploración de niveles de mundo abierto.
+- Análisis del sistema de "Descubrimiento" y cómo impacta en el ritmo del juego.
+- Desglose de la mecánica del "Capítulo 6" donde Yoshi puede invocar criaturas anteriores.
+- Información sobre el bucle de juego de "Papel de burbujas" y sus preocupaciones sobre la rejugabilidad.
+
+<YouTubeEmbed videoId="treg8h3dWO0" title="Reseña técnica de Yoshi and the Mysterious Book" />
+
+Críticos de medios importantes como GameSpot y Nintendo Life han señalado que los visuales del juego son un arma de doble filo. Mientras que la resolución 4K en Switch 2 hace que los fondos de lápices de colores resalten, el "salto de fotogramas" intencionado para las animaciones ha generado una recepción polarizada respecto a la fluidez percibida.
+
+| Característica | Especificación de rendimiento | Nota técnica |
+| :--- | :--- | :--- |
+| **Objetivo del motor** | **60 fotogramas por segundo** | Garantiza lanzamientos de huevos y saltos receptivos |
+| **Tasa de animación** | **Variable (12-24 FPS)** | Efecto stop-motion intencionado para los personajes |
+| **Resolución (TV)** | **4K dinámico** | Se ajusta según la complejidad de la pantalla |
+| **Resolución (Portátil)** | **1080p nativo** | Algunos informes de pixelación en biomas densos |
+| **Tiempos de carga** | **2-4 segundos** | Aprovecha el almacenamiento de alta velocidad de Switch 2 |
+
+<Callout type="tip" title="Intención artística">
+Si notas que los movimientos de Yoshi se ven "entrecortados", no entres en pánico. Este es un estilo stop-motion intencionado diseñado por Nintendo para que el juego se sienta como un libro desplegable vivo. La latencia de entrada real sigue siendo baja.
+</Callout>
+
+</Section>
+
+<Section icon={Activity} title="Análisis de la tasa de fotogramas de Yoshi and the Mysterious Book">
+
+Analizar la **tasa de fotogramas de Yoshi and the Mysterious Book** requiere observar diferentes escenarios de juego. En el centro del "Mundo Real", Yoshi utiliza cada fotograma de animación disponible, apareciendo como un modelo 3D tradicional de alta fidelidad. Sin embargo, una vez que entras en las páginas del Libro Misterioso, el perfil técnico cambia. Los elementos del fondo a menudo mantienen una alta tasa de refresco, mientras que los elementos interactivos del primer plano (criaturas y Yoshi) cambian al estilo de movimiento "entrecortado".
+
+<CardGrid cols={3}>
+  <Card title="Modo Televisor">
+    - Motor **estable a 60 FPS**
+    - Escalado de resolución mínimo
+    - Efectos de iluminación mejorados
+    - Ideal para pantallas 4K
+  </Card>
+  <Card title="Modo Portátil">
+    - **Resolución 1080p**
+    - Grano de textura ocasional
+    - Rendimiento optimizado para la batería
+    - Respuesta de entrada constante
+  </Card>
+  <Card title="Interacciones físicas">
+    - Física extraña en algunos niveles
+    - El salto de pared puede sentirse flotante
+    - Mecánicas de rebote complicadas
+    - El motor permanece estable durante el caos
+  </Card>
+</CardGrid>
+
+El rendimiento es generalmente "sólido como una roca", como señaló GameSpot, pero el estilo visual puede ser engañoso. En niveles que involucran físicas complejas —como el barco pirata tambaleante o los desafíos de peonzas— la tasa de fotogramas se mantiene constante incluso si los controles se sienten "frustrantes" para algunos jugadores debido al motor físico del juego.
+
+| Modo | FPS objetivo | FPS promedio | Resolución |
+| :--- | :--- | :--- | :--- |
+| **Televisor** | **60** | **59.2** | **2160p (4K)** |
+| **Portátil** | **60** | **57.8** | **1080p** |
+| **Menú/IU** | **60** | **60.0** | **4K** |
+
+<Callout type="warning" title="Granulosidad en modo portátil">
+Algunos usuarios han informado que el juego se ve "pixelado y granulado" cuando se juega en la pantalla portátil de Switch 2. Esto parece estar relacionado con los filtros de postprocesamiento utilizados para lograr el efecto de textura de papel.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Optimización para el hardware de Switch 2">
+
+Como uno de los primeros títulos para Switch 2, **Yoshi and the Mysterious Book** aprovecha al máximo el hardware actualizado. La transición de las limitaciones de 720p/1080p de la Switch original a las capacidades 4K de la sucesora es inmediatamente evidente en el nivel de detalle de los diseños de las criaturas. Cada una de las docenas de criaturas únicas, desde el bicho con varita de burbujas hasta la medusa jetpack, presenta texturas intrincadas que permanecen nítidas incluso durante movimientos rápidos.
+
+**Puntos destacados del video:**
+- Veredicto general sobre las puntuaciones de reseñas de 6-8/10 del juego en los principales medios.
+- Comparación con *Yoshi's Woolly World* y *Yoshi's Crafted World*.
+- Discusión sobre las extrañas recompensas de la IU al final del juego y las opciones de HUD "inútiles".
+- Análisis del giro "oscuro" de la trama mencionado por GameSpot.
+
+<YouTubeEmbed videoId="KFQKnoVBkpk" title="Las reseñas han llegado: Veredicto de rendimiento" />
+
+A pesar del salto de hardware, el bucle central del juego sigue siendo de "baja exigencia". La estabilidad técnica garantiza que la experiencia de explotar "papel de burbujas" —descubrir cómo reaccionan las criaturas a tus acciones— nunca se vea interrumpida por tartamudeos o bloqueos. Ya sea que lances a un enemigo al lodo o lo laves en un arroyo, las interacciones se procesan instantáneamente.
+
+<Steps>
+  <Step num="1" title="Arranque inicial y parcheo">
+    Asegúrate de que tu Switch 2 esté actualizada al firmware más reciente. Hay un parche del Día 1 disponible que estabiliza el escalado de resolución dinámico en el Capítulo 3.
+  </Step>
+  <Step num="2" title="Calibración de pantalla">
+    Navega al menú de ajustes para ajustar el "Grano de película". Reducir esto puede ayudar si encuentras el estilo stop-motion demasiado distractor o "pixelado".
+  </Step>
+  <Step num="3" title="Personalización de la IU">
+    Después del Capítulo 6, usa tus Flores Sonrientes para desbloquear la IU del "Velocímetro". Esto te permite monitorear la velocidad de movimiento de Yoshi en tiempo real para verificar el rendimiento del motor.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Optimización de carga">
+Gracias al almacenamiento similar a un SSD de Switch 2, volver a entrar en los niveles para encontrar "Descubrimientos" perdidos toma menos de 3 segundos, lo que hace que la búsqueda de completista sea significativamente más tolerable que en entregas anteriores.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Comparando el rendimiento con entregas anteriores">
+
+Para entender dónde se sitúa la **tasa de fotogramas de Yoshi and the Mysterious Book**, debemos compararla con la historia técnica de la serie. La franquicia a menudo ha experimentado con estilos visuales que exprimen el hardware de diferentes maneras.
+
+| Título del juego | Plataforma | Estilo visual | Rendimiento |
+| :--- | :--- | :--- | :--- |
+| **Yoshi's Island** | SNES | Dibujado a mano | 60 FPS estables |
+| **Yoshi's Woolly World** | Wii U | Lana/Tela | 60 FPS estables |
+| **Yoshi's Crafted World** | Switch | Cartón/Manualidades | 60 FPS (TV) / 30 FPS (Portátil) |
+| **Mysterious Book** | **Switch 2** | **Stop-motion/Papel** | **60 FPS (Todos los modos)** |
+
+El paso a unos 60 FPS consistentes tanto en modo televisor como portátil es una mejora importante respecto a *Crafted World*, que sufría con una tasa de fotogramas reducida a la mitad en modo portátil y caídas significativas de resolución. El hardware de Switch 2 permite a los desarrolladores mantener la compleja estética de "lápices de colores" sin sacrificar la capacidad de respuesta necesaria para un juego de plataformas.
+
+<Checklist
+  id="performance-check"
+  title="Características técnicas a tener en cuenta:"
+  items={[
+    "Soporte de resolución 4K en modo televisor",
+    "Respuesta del motor constante a 60 FPS",
+    "Filtros de animación stop-motion intencionados",
+    "Carga de alta velocidad entre transiciones de mundo",
+    "Escalado de resolución dinámico para evitar tartamudeos"
+  ]}
+/>
+
+<Callout type="info" title="Rendimiento del HUD">
+Los elementos del HUD desbloqueables, como el gráfico del "Perfil de sabor" o el medidor de "Calidad del agua", no afectan la tasa de fotogramas, incluso cuando la pantalla está llena de múltiples variables sin sentido.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas frecuentes técnicas">
+
+<FAQ items={[
+  {
+    question: "¿Por qué la tasa de fotogramas de Yoshi and the Mysterious Book se ve entrecortada a veces?",
+    answer: "Esta es una elección artística intencionada. El juego utiliza un estilo de animación stop-motion para los personajes y criaturas, que imita una tasa de fotogramas más baja mientras que el motor del juego en sí sigue funcionando a unos fluidos 60 FPS."
+  },
+  {
+    question: "¿El juego funciona a 4K en la Nintendo Switch original?",
+    answer: "No, Yoshi and the Mysterious Book está diseñado específicamente para el hardware de Switch 2 para lograr la resolución 4K. No es compatible con el hardware de la Switch original."
+  },
+  {
+    question: "¿Hay diferencias de rendimiento entre el modo televisor y el modo portátil?",
+    answer: "Ambos modos tienen como objetivo los 60 FPS. Sin embargo, el modo televisor ofrece resolución 4K y mejor filtrado de texturas, mientras que el modo portátil funciona a 1080p y puede parecer ocasionalmente algo granulado debido al estilo artístico del juego."
+  },
+  {
+    question: "¿Puedo desactivar el efecto stop-motion para obtener animaciones más fluidas?",
+    answer: "Actualmente, no hay un ajuste para desactivar el estilo de animación stop-motion, ya que forma parte de la identidad visual del juego. Sin embargo, puedes reducir el 'Grano de película' en los ajustes para aclarar la imagen."
+  }
+]} />
+
+</Section>

@@ -1,0 +1,167 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } => '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Yoshi and the Mysterious Book Croakaoke: Guía del Hábitat y Flores Sonrientes",
+  description: "Una guía completa del Hábitat Croakaoke en Yoshi and the Mysterious Book, incluyendo todas las ubicaciones de las Flores Sonrientes y descubrimientos.",
+  category: "Guía Paso a Paso",
+  image: "https://placehold.co/800x400/8b5cf6/fff?text=Croakaoke+Habitat+Guide",
+  date: "2026-05-23",
+  author: "Equipo de la Wiki de Yoshi and the Mysterious Book",
+  keywords: "Yoshi and the Mysterious Book, Hábitat Croakaoke, Flores Sonrientes, guía, descubrimientos"
+}
+
+<Callout type="info" title="Guía Rápida">
+- Navega por el **Hábitat Croakaoke** para encontrar las cuatro **Flores Sonrientes**.
+- Utiliza interacciones específicas con las criaturas para revelar coleccionables ocultos y realizar descubrimientos.
+- Domina los saltos cronometrados y la mecánica de alimentación para acceder a áreas elevadas y flores secretas.
+- Descubre interacciones musicales únicas con varios tipos de Croakaoke.
+- Completa todos los descubrimientos para terminar el Hábitat Croakaoke al 100%.
+</Callout>
+
+<Section icon={Map} title="Descripción General y Descubrimientos del Hábitat Croakaoke">
+El Hábitat Croakaoke es el cuarto nivel del Capítulo 1: Los Bosques Salvajes de *Yoshi and the Mysterious Book*. Esta vibrante zona está llena de criaturas musicales parecidas a ranas llamadas Croakaoke, cada una de las cuales contribuye a la melodía única del hábitat. Para lograr el 100% de finalización, los jugadores deben recolectar las cuatro Flores Sonrientes y revelar cada descubrimiento dentro de este encantador nivel.
+
+<Callout type="tip" title="Consejo de Exploración del Hábitat">
+Inspecciona siempre tu entorno con cuidado. Muchos descubrimientos en el Hábitat Croakaoke están ligados a interactuar con el medio ambiente o con Croakaokes específicos de formas únicas. ¡No tengas prisa; tómate tiempo para experimentar!
+</Callout>
+
+**Lo más destacado del video:**
+- Demuestra la ubicación de la primera Flor Sonriente.
+- Muestra cómo interactuar con los Croakaoke para activar descubrimientos.
+- Proporciona pistas visuales para los saltos cronometrados necesarios para los coleccionables.
+
+<YouTubeEmbed videoId="VIDEO_ID_HERE" title="Guía del Hábitat Croakaoke de Yoshi and the Mysterious Book" />
+
+Las propias criaturas Croakaoke son la clave de muchos de los secretos del hábitat. Desde simplemente pisarlas hasta alimentarlas con frutas especiales, cada interacción puede llevar a un nuevo descubrimiento o desbloquear un camino hacia un coleccionable oculto.
+
+### Lista de Descubrimientos de Croakaoke
+
+<Checklist
+  id="croakaoke-discoveries"
+  title="Descubrimientos Esenciales de Croakaoke:"
+  items={[
+    "**Canta al ser pisado.** - Salta encima de un Croakaoke.",
+    "**Más que un bocado.** - Intenta engullir a un Croakaoke.",
+    "**¡Crazee Dayzee se une como director invitado!** - Interactúa con un Crazee Dayzee cerca de un Croakaoke.",
+    "**¡Salta con ganas para volar alto!** - Salta sobre ciertos Croakaoke para obtener altura extra.",
+    "**Lleva la melodía mediante un Croakaoke pequeño.** - Encuentra e interactúa con los Croakaoke más pequeños."
+  ]}
+/>
+
+<Callout type="success" title="Descubrimiento desbloqueado: ¡Vals Caprichoso!">
+Realizar el descubrimiento de un "Vals caprichoso apto para pulgas festivas" es crucial, ya que a menudo revela una Flor Sonriente oculta. ¡Presta atención a las notas musicales y los patrones al interactuar con los Croakaoke!
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Ubicaciones de Todas las Flores Sonrientes">
+Hay cuatro Flores Sonrientes escondidas dentro del Hábitat Croakaoke, cada una de las cuales requiere un ojo agudo y habilidades precisas de plataformeo. Encontrarlas todas es esencial para completar el nivel al 100%.
+
+<Callout type="warning" title="Se Requiere Plataformeo de Precisión">
+Algunas Flores Sonrientes en este hábitat exigen una sincronización y saltos precisos. ¡No te desanimes si fallas unas cuantas veces; la práctica hace al maestro!
+</Callout>
+
+<Steps>
+  <Step num="1" title="Flor Sonriente 1: Ascenso de Notas Altas">
+    Avanza hacia la derecha pasando el grupo inicial de Croakaokes cantores. Encontrarás varios Croakaokes ascendiendo hacia el cielo. Cronometra cuidadosamente tus saltos sobre estas criaturas para alcanzar la primera **Flor Sonriente** que flota en lo alto. Esto a menudo implica golpear al Croakaoke cuando está en su altura máxima.
+  </Step>
+  <Step num="2" title="Flor Sonriente 2: Salto en Cadena Musical">
+    Continúa más hacia la derecha, donde encontrarás otra secuencia de Croakaokes cantores con fichas suspendidas sobre ellos. Para ganar esta **Flor Sonriente**, debes saltar con éxito sobre cada una de estas criaturas sin fallar ninguna. Un salto en cadena impecable hará que la flor se materialice directamente frente a ti. Esto suele estar vinculado al descubrimiento "Vals caprichoso apto para pulgas festivas".
+  </Step>
+  <Step num="3" title="Flor Sonriente 3: Salto Potenciado por Fruta">
+    Para la tercera **Flor Sonriente**, deberás retroceder un poco o encontrar Croakaokes grandes específicos. Estos Croakaokes grandes requieren que los alimentes con una fruta especial. Una vez alimentados, permitirán que Yoshi salte significativamente más alto, permitiendo el acceso a áreas que antes estaban fuera de su alcance, donde espera la tercera flor.
+  </Step>
+  <Step num="4" title="Flor Sonriente 4: Interacción con el Entorno">
+    La cuarta **Flor Sonriente** a menudo requiere una interacción ambiental específica o resolver un pequeño rompecabezas. Aunque los detalles pueden variar, normalmente implica combinar interacciones de criaturas (como un Crazee Dayzee dirigiendo a los Croakaoke) o manipular objetos en el entorno. Busca patrones inusuales u objetos que destaquen. Esta flor a veces se revela después de completar todos los demás descubrimientos.
+  </Step>
+</Steps>
+
+### Resumen de la Colección de Flores Sonrientes
+
+| Flor Sonriente | Método de Obtención | Interacción Clave | Dificultad |
+| :------------ | :------------------ | :---------------- | :--------- |
+| **Flor Sonriente 1** | Saltos cronometrados sobre Croakaokes ascendentes. | Plataformeo de precisión | Media |
+| **Flor Sonriente 2** | Salto en cadena impecable sobre una serie de Croakaokes. | Descubrimiento "Vals caprichoso" | Difícil |
+| **Flor Sonriente 3** | Alimentar con fruta especial a un Croakaoke grande. | Mecánica de alimentación de fruta | Media |
+| **Flor Sonriente 4** | Interacción específica con el entorno/criaturas. | Ligada a descubrimientos finales | Difícil |
+
+</Section>
+
+<Section icon={Shield} title="Completando el Hábitat Croakaoke">
+Lograr el 100% de finalización en el Hábitat Croakaoke implica no solo recolectar todas las Flores Sonrientes, sino también revelar cada uno de los descubrimientos. Estos descubrimientos suelen ser interacciones peculiares que añaden encanto a *Yoshi and the Mysterious Book*.
+
+### Guía de Interacción con Criaturas
+
+| Tipo de Criatura | Interacciones Comunes | Descubrimiento Resultante (Ejemplo) | Notas |
+| :------------ | :-------------------- | :---------------------------------- | :---- |
+| **Croakaoke** | Saltar en la cabeza | Canta al ser pisado. | Activa notas musicales. |
+| **Croakaoke** | Engullir (comer) | Más que un bocado. | Revela notas de sabor únicas. |
+| **Croakaoke Pequeño** | Llevar con la lengua | Lleva la melodía mediante un Croakaoke pequeño. | Se puede usar para transportar melodías. |
+| **Crazee Dayzee** | Colocar cerca de Croakaoke | ¡Crazee Dayzee se une como director invitado! | Orquesta una pieza musical única. |
+| **Croakaoke Grande** | Alimentar con fruta especial | ¡Salta con ganas para volar alto! | Permite saltos más altos para Yoshi. |
+
+<Callout type="info" title="No te Pierdas las Pistas Musicales">
+El canto de los Croakaoke a menudo proporciona pistas para descubrimientos o caminos ocultos. Escucha atentamente las notas (Do~Re~Mi~) ya que cambian según tus interacciones.
+</Callout>
+
+Para asegurarte de haber encontrado todo, explora sistemáticamente cada sección del hábitat. Vuelve a visitar las áreas después de realizar nuevos descubrimientos, ya que podrían desbloquear nuevas interacciones o caminos.
+
+</Section>
+
+<Section icon={Sparkles} title="Consejos Avanzados para Dominar el Hábitat">
+Para los jugadores que buscan una partida perfecta, aquí hay algunas estrategias avanzadas para que su tiempo en el Hábitat Croakaoke sea más fluido y agradable.
+
+<CardGrid cols={2}>
+  <Card title="La Paciencia es Clave">
+    El Hábitat Croakaoke depende en gran medida de la sincronización y la observación. No te apresures. Tómate un momento para observar los patrones de los Croakaoke y escuchar sus canciones antes de intentar saltos o interacciones complicadas.
+  </Card>
+  <Card title="Experimenta con Todo">
+    Si estás atascado en un descubrimiento o una Flor Sonriente, prueba todas las interacciones posibles con las criaturas y objetos de la zona. Engulle, salta, haz un salto bomba o incluso intenta llevar objetos a nuevas ubicaciones.
+  </Card>
+</CardGrid>
+
+### Lista de Verificación de Finalización del Hábitat
+
+<Checklist
+  id="habitat-completion"
+  title="Objetivos para el 100%:"
+  items={[
+    "Recolectadas las 4 Flores Sonrientes.",
+    "Revelados todos los Descubrimientos de Croakaoke.",
+    "Interactuado con Crazee Dayzee cerca de los Croakaoke.",
+    "Realizadas con éxito todas las interacciones musicales.",
+    "Explorado cada rincón y grieta del hábitat."
+  ]}
+/>
+
+</Section>
+
+<Section icon={Target} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "¿Qué es el Hábitat Croakaoke en Yoshi and the Mysterious Book?",
+    answer: "El Hábitat Croakaoke es el cuarto nivel dentro del Capítulo 1: Los Bosques Salvajes de *Yoshi and the Mysterious Book*. Es un nivel musical que presenta criaturas parecidas a ranas llamadas Croakaoke, donde los jugadores deben encontrar Flores Sonrientes y realizar descubrimientos."
+  },
+  {
+    question: "¿Cuántas Flores Sonrientes hay en el Hábitat Croakaoke?",
+    answer: "Hay un total de cuatro Flores Sonrientes para recolectar dentro del Hábitat Croakaoke. Cada una requiere interacciones específicas o un plataformeo preciso para obtenerse."
+  },
+  {
+    question: "¿Qué tipo de descubrimientos puedo hacer en el Hábitat Croakaoke?",
+    answer: "Los descubrimientos en el Hábitat Croakaoke implican interactuar con las criaturas Croakaoke de varias maneras, como saltar sobre ellas, engullirlas o colocar otras criaturas como el Crazee Dayzee cerca para activar eventos musicales únicos."
+  },
+  {
+    question: "¿Necesito completar al 100% el Hábitat Croakaoke para progresar en el juego?",
+    answer: "Aunque no siempre es estrictamente necesario para la progresión básica del juego, lograr el 100% de finalización, incluyendo encontrar todas las Flores Sonrientes y descubrimientos en el Hábitat Croakaoke, suele ser necesario para desbloquear contenido adicional, niveles secretos u obtener todos los coleccionables en *Yoshi and the Mysterious Book*."
+  }
+]} />
+
+</Section>
