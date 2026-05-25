@@ -1,0 +1,156 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Yoshi and the Mysterious Book Unreal Engine : Performance et Optimisation sur Switch 2",
+  description: "Découvrez comment Yoshi and the Mysterious Book utilise Unreal Engine 5 sur la Nintendo Switch 2, surmontant les défis de performance avec Lumen et Nanite.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/8d6e63/fff?text=Yoshi+UE5+Switch+2",
+  date: "2026-05-25",
+  author: "Équipe Wiki de Yoshi and the Mysterious Book"
+}
+
+<Callout type="info" title="Guide rapide">
+- **Yoshi and the Mysterious Book** est un jeu Nintendo de premier ordre pionnier utilisant **Unreal Engine 5**.
+- Les optimisations pour l'UE5 sur **Nintendo Switch 2** sont cruciales pour les futurs titres.
+- Les premiers jeux Switch 2 ont eu du mal avec **Lumen** et **Nanite**, des fonctionnalités centrales de l'UE5.
+- Le nouveau **mode de qualité Lumen** dans l'UE 5.8 vise à améliorer les performances sur les consoles portables.
+- Le succès du jeu pourrait ouvrir la voie à des titres **Unreal Engine** plus exigeants sur la console.
+</Callout>
+
+<Section icon={Sparkles} title="Yoshi and the Mysterious Book : Un bond vers Unreal Engine 5">
+Le jeu de plateforme très attendu, **Yoshi and the Mysterious Book**, marque une étape importante pour Nintendo en devenant le premier titre de premier ordre à être propulsé par **Unreal Engine 5**. Cette évolution est particulièrement remarquable compte tenu des préoccupations antérieures concernant la capacité de la Nintendo Switch 2 à gérer les fonctionnalités exigeantes de l'UE5, telles que Lumen et Nanite. Le jeu, développé par Good-Feel et publié par Nintendo, est sorti le 21 mai 2026 et a reçu des critiques généralement positives. Son utilisation d'Unreal Engine 5 suggère un changement potentiel dans la stratégie de développement de Nintendo, ouvrant la voie à des jeux plus graphiquement intensifs sur la plateforme.
+
+**Points forts de la vidéo :**
+- Démontre la cinématique d'ouverture de Yoshi and the Mysterious Book sur Nintendo Switch 2.
+- Présente Bowser Jr. dans une introduction fantaisiste et orchestrale.
+- Donne un aperçu du style visuel charmant du jeu.
+
+<YouTubeEmbed videoId="oMbCegTH2II" title="Yoshi and the Mysterious Book – Cinématique d'ouverture – Nintendo Switch 2" />
+
+Alors que d'autres jeux Nintendo de premier ordre comme *Yoshi's Crafted World*, *Princess Peach: Showtime!* et *Pikmin 4* ont utilisé Unreal Engine 4 (avec *Pikmin 4* le combinant également avec le moteur propriétaire de Nintendo EPD), la transition vers Unreal Engine 5 pour **Yoshi and the Mysterious Book** est une étape majeure. Les optimisations mises en œuvre pour assurer des performances stables pour ce jeu sur la Nintendo Switch 2 pourraient servir de modèle précieux pour d'autres studios de développement cherchant à porter leurs titres basés sur l'UE5 sur la console.
+
+<Callout type="tip">
+Les optimisations réalisées pour **Yoshi and the Mysterious Book** sur la Nintendo Switch 2 pourraient changer la donne pour les futurs titres Unreal Engine 5, facilitant potentiellement le portage de leurs jeux sur la console avec des performances stables pour d'autres développeurs.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Surmonter les défis de performance d'Unreal Engine 5 sur Switch 2">
+Avant le lancement de la Nintendo Switch 2, il y avait des doutes considérables quant à la capacité de son CPU à exécuter efficacement des jeux propulsés par **Unreal Engine 5**, y compris **Yoshi and the Mysterious Book**. Ces préoccupations ont été quelque peu validées par le premier lot de jeux sortis sur le système, tels que *Cronos: The New Dawn*, *Fortnite* et *Split Fiction*. Bien que ces titres aient fonctionné sur la Switch 2, ils l'ont souvent fait sans exploiter pleinement les fonctionnalités principales d'Unreal Engine 5 comme Lumen et Nanite. Ces fonctionnalités, connues pour leur éclairage global avancé et leurs détails géométriques, sont notoirement exigeantes même sur des consoles plus puissantes comme la PlayStation 5 et la Xbox Series X.
+
+Le tableau ci-dessous présente la comparaison initiale des performances des fonctionnalités de l'UE5 sur la Switch 2 :
+
+| Titre du jeu             | Version d'Unreal Engine | Prise en charge de Lumen | Prise en charge de Nanite | Performance globale |
+|--------------------------|-------------------------|--------------------------|---------------------------|---------------------|
+| Yoshi and the Mysterious Book | UE5                     | Partielle                | Partielle                 | Optimisée           |
+| Cronos: The New Dawn     | UE5                     | Non                      | Non                       | Jouable             |
+| Fortnite                 | UE5                     | Non                      | Non                       | Jouable             |
+| Split Fiction            | UE5                     | Non                      | Non                       | Jouable             |
+
+L'évolution continue d'Unreal Engine 5, y compris des fonctionnalités comme Lumen Irradiance Cache et le nouveau mode de qualité Lumen en cours de test dans l'UE 5.8, offre une lueur d'espoir. Ces avancées sont conçues pour éviter une réduction extrême des futurs ports et pourraient améliorer considérablement les performances des titres exigeants sur la Switch 2. La sortie de **Yoshi and the Mysterious Book** est considérée comme un test crucial, offrant potentiellement un premier aperçu d'une nouvelle ère de performances UE5 plus performantes sur la dernière console de Nintendo.
+
+<Callout type="warning" title="Limitations initiales">
+Les premiers jeux Unreal Engine 5 sur Nintendo Switch 2 fonctionnaient souvent sans le plein bénéfice de Lumen et Nanite, ce qui indique les difficultés initiales de la console avec ces fonctionnalités exigeantes.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Optimisations et implications futures pour l'UE5 sur Switch 2">
+La mise en œuvre réussie d'**Unreal Engine 5** dans **Yoshi and the Mysterious Book** pourrait avoir des implications considérables pour l'écosystème de la Nintendo Switch 2. L'engagement de Nintendo à garantir que ses titres de premier ordre fonctionnent avec des performances stables sur leurs systèmes respectifs signifie que toutes les optimisations développées pour ce jeu pourraient être facilement adoptées par d'autres développeurs. Cet avantage collaboratif est un atout important, potentiellement accélérant l'adoption de l'UE5 pour des jeux plus complexes et visuellement riches sur la plateforme.
+
+<CardGrid cols={2}>
+  <Card title="Avantages pour les développeurs">
+    - **Techniques d'optimisation partagées**
+    - Réduction des obstacles de développement pour l'UE5
+    - Portefeuille de jeux plus large pour la Switch 2
+  </Card>
+  <Card title="Avantages pour les joueurs">
+    - **Visuels de meilleure qualité**
+    - Expériences de jeu plus fluides
+    - Offres de jeux plus diverses
+  </Card>
+</CardGrid>
+
+L'équipe de développement derrière **Yoshi and the Mysterious Book**, Good-Feel, a une histoire de création de titres Yoshi visuellement uniques et techniquement solides, y compris *Yoshi's Woolly World* et *Yoshi's Crafted World*. Leur expertise dans la création de mondes charmants tout en gérant les performances sur le matériel Nintendo en fait un choix idéal pour relever les défis d'Unreal Engine 5 sur la Switch 2. Leur travail pourrait essentiellement définir la base de ce qui est réalisable avec l'UE5 sur la console.
+
+<Callout type="success" title="Ouvrir la voie">
+L'optimisation réussie de **Yoshi and the Mysterious Book** dans Unreal Engine 5 sur Switch 2 pourrait établir les meilleures pratiques pour d'autres studios, faisant de la console une plateforme plus viable pour les jeux graphiquement avancés.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Comment Yoshi and the Mysterious Book utilise les fonctionnalités de l'UE5">
+**Yoshi and the Mysterious Book** est un jeu de plateforme à défilement latéral où Yoshi entre dans une encyclopédie vivante, interagissant avec des créatures uniques pour résoudre des énigmes et parcourir les niveaux. Le style artistique distinct du jeu, qui imite l'animation traditionnelle en stop-motion, pourrait être un domaine où les capacités d'Unreal Engine 5 sont subtilement exploitées. Bien que Lumen et Nanite ne soient pas aussi ouvertement mis en évidence que dans un titre photoréaliste, leurs principes sous-jacents peuvent améliorer la fidélité visuelle du jeu et les détails environnementaux d'une manière qui complète sa direction artistique.
+
+**Étapes pour l'intégration de l'UE5 dans le monde de Yoshi :**
+
+<Steps>
+  <Step num="1" title="Adaptation du style artistique">
+    L'équipe de développement a méticuleusement adapté Unreal Engine 5 pour prendre en charge le style d'animation stop-motion unique du jeu, garantissant une esthétique visuelle cohérente.
+  </Step>
+  <Step num="2" title="Optimisation des performances">
+    Des passes d'optimisation approfondies ont été menées pour garantir que le jeu fonctionne à un framerate stable sur la Nintendo Switch 2, équilibrant la qualité visuelle et les performances.
+  </Step>
+  <Step num="3" title="Implémentation sélective des fonctionnalités">
+    Plutôt qu'un déploiement à grande échelle de toutes les fonctionnalités de l'UE5, des éléments spécifiques comme l'éclairage amélioré ou le rendu des matériaux ont été intégrés sélectivement pour servir la vision artistique du jeu sans surcharger le matériel.
+  </Step>
+  <Step num="4" title="Tests et affinage">
+    Des tests continus dans divers scénarios et niveaux ont été effectués pour identifier et résoudre tout goulot d'étranglement de performance ou problème visuel.
+  </Step>
+</Steps>
+
+Le récit du jeu tourne autour des interactions de Yoshi avec des créatures particulières dans les pages de "M. E", utilisant leurs traits et leurs capacités pour progresser. Le rendu détaillé de ces créatures et des environnements interactifs, même dans un contexte stylisé, bénéficie des capacités de rendu avancées d'Unreal Engine 5. Cela permet un éclairage plus dynamique et des textures plus riches, améliorant l'immersion globale sans compromettre l'esthétique charmante.
+
+<Callout type="info">
+Le style d'animation stop-motion distinctif du jeu, combiné à la puissance de rendu de l'UE5, crée une expérience visuellement riche qui conserve le charme signature de Nintendo tout en repoussant les limites graphiques sur la Switch 2.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Yoshi and the Mysterious Book Unreal Engine : Points clés à retenir">
+
+<Checklist
+  id="ue5-impact"
+  title="Impact d'Unreal Engine 5 sur Yoshi and the Mysterious Book :"
+  items={[
+    "Premier jeu Nintendo de premier ordre utilisant Unreal Engine 5.",
+    "Crucial pour démontrer les capacités de l'UE5 sur Switch 2.",
+    "Les optimisations pourraient bénéficier aux futurs titres tiers.",
+    "Répond aux préoccupations initiales concernant les performances du CPU de la Switch 2.",
+    "Combine un art stylisé avec des fonctionnalités moteur avancées."
+  ]}
+/>
+
+Le parcours de **Yoshi and the Mysterious Book** avec **Unreal Engine 5** sur la Nintendo Switch 2 est significatif. Il offre non seulement une expérience de plateforme très appréciée, mais sert également de référence technique pour ce qui est possible sur le nouveau matériel de Nintendo. Alors que le moteur continue d'évoluer, avec des fonctionnalités comme le mode de qualité Lumen, l'avenir s'annonce prometteur pour des titres plus ambitieux sur la Switch 2, en s'appuyant sur les bases posées par la dernière aventure de Yoshi.
+
+</Section>
+
+<Section icon={Swords} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Yoshi and the Mysterious Book est-il le premier jeu Nintendo de premier ordre à utiliser Unreal Engine 5 ?",
+    answer: "Oui, **Yoshi and the Mysterious Book** est bien le premier jeu Nintendo de premier ordre confirmé pour être propulsé par **Unreal Engine 5**, marquant une étape technique significative pour Nintendo sur la Switch 2."
+  },
+  {
+    question: "Comment Unreal Engine 5 fonctionne-t-il sur la Nintendo Switch 2 pour ce jeu ?",
+    answer: "Malgré les inquiétudes initiales concernant la capacité de la Switch 2 à gérer les fonctionnalités exigeantes de l'UE5 comme Lumen et Nanite, **Yoshi and the Mysterious Book** a été optimisé pour fonctionner avec des performances stables, démontrant le potentiel de la console avec un développement adapté."
+  },
+  {
+    question: "Les optimisations de Yoshi and the Mysterious Book bénéficieront-elles à d'autres jeux ?",
+    answer: "Oui, les optimisations réalisées pour **Yoshi and the Mysterious Book** afin d'atteindre des performances stables sur la Nintendo Switch 2 pourraient être adoptées par d'autres studios de développement, facilitant potentiellement le portage de leurs jeux basés sur l'UE5 sur la console."
+  },
+  {
+    question: "Que sont Lumen et Nanite, et pourquoi sont-ils importants pour Unreal Engine 5 ?",
+    answer: "Lumen est un système d'éclairage global dynamique et de réflexions, et Nanite est un système de géométrie micropolygonale virtualisée. Ce sont deux fonctionnalités centrales d'Unreal Engine 5 qui offrent des graphismes très réalistes mais sont très exigeantes en matériel, ce qui rend leur optimisation sur Switch 2 cruciale."
+  }
+]} />
+
+</Section>
