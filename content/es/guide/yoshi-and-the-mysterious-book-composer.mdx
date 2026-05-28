@@ -1,0 +1,201 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Music, Mic2 } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Yoshi and the Mysterious Book Composer: Guía de Diseño de Audio y Música",
+  description: "Explora el paisaje sonoro de Yoshi and the Mysterious Book. Aprende sobre el compositor, criaturas musicales como Croakoke y la configuración de audio para Nintendo Switch 2.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e40af/fff?text=Yoshi+Music+Guide",
+  date: "2026-05-28",
+  author: "Equipo Wiki de Yoshi and the Mysterious Book"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **compositor de yoshi and the mysterious book**: La dirección de audio está a cargo de veteranos de Nintendo, con **Kazumi Totaka** como la voz de Yoshi y supervisando la estética del sonido.
+- **Mecánica clave**: El juego presenta **Criaturas Musicales** que reaccionan a las acciones de Yoshi, creando una banda sonora dinámica y generada procedimentalmente.
+- **Mejor estrategia**: Usa las criaturas **Croakoke** para desbloquear caminos ocultos haciendo coincidir notas musicales mediante controles táctiles o de movimiento.
+- **Consejo crítico**: Habilita el **Audio de Alta Fidelidad** en la configuración para apreciar completamente los efectos de sonido "táctiles" inspirados en el stop-motion.
+- **Elección principal**: El "Capítulo 3: Ruinas Rítmicas" ofrece los puzles musicales más complejos y una gratificante retroalimentación audiovisual.
+</Callout>
+
+<Section icon={Music} title="El Sonido del Sr. E: Compositor y Dirección de Audio">
+
+El mundo auditivo de *Yoshi and the Mysterious Book* es tan táctil y artesanal como sus gráficos. Desarrollado por **Good-Feel**, el estudio detrás de *Yoshi's Woolly World* y *Yoshi's Crafted World*, este lanzamiento de 2026 continúa la tradición de usar bandas sonoras caprichosas e instrumentales. Si bien los créditos oficiales del **compositor de yoshi and the mysterious book** incluyen un equipo de ingenieros de sonido de Nintendo, la presencia de **Kazumi Totaka** (la legendaria voz de Yoshi y compositor de *Yoshi's Story*) asegura una continuidad melódica que los fans han anhelado desde la era de Nintendo 64.
+
+**Puntos destacados del video:**
+- Introducción a las criaturas **Croakoke** que cantan según el movimiento de Yoshi.
+- Demostración de cómo se recolectan las notas musicales dentro de la enciclopedia viviente.
+- Vista previa de la sincronización audiovisual inspirada en el stop-motion.
+
+<YouTubeEmbed videoId="_NkZlM2ktnM" title="Yoshi and The Mysterious Book - Croakoke" />
+
+La música en este título no es solo ruido de fondo; es un elemento interactivo del entorno. A medida que Yoshi atraviesa las páginas del **Sr. E**, la naturaleza viviente de la enciclopedia se manifiesta a través de flora y fauna "cantantes". La banda sonora cambia dinámicamente según las criaturas con las que Yoshi interactúa, mezclando vientos de madera tradicionales con instrumentos de "juguete" modernos y experimentales.
+
+| Rol | Personal / Estudio | Trabajo anterior notable |
+| :--- | :--- | :--- |
+| **Productor Ejecutivo** | **Shuntaro Furukawa** | Presidente de Nintendo |
+| **Voz de Yoshi** | **Kazumi Totaka** | Yoshi's Story, Animal Crossing |
+| **Desarrollador Principal** | **Good-Feel** | Yoshi's Crafted World (2019) |
+| **Motor de Sonido** | **Propiedad de Nintendo** | Audio optimizado para Switch 2 |
+| **Estilo Musical** | **Acústico / Experimental** | Estética stop-motion |
+
+<Callout type="tip" title="¿Sabías que?">
+La menor velocidad de fotogramas utilizada para las acciones de los personajes, como saltar, se sincroniza con efectos de sonido "mecánicos" específicos para realzar la sensación de un libro físico que cobra vida.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Criaturas Musicales y Mecánicas de Interacción">
+
+En *Yoshi and the Mysterious Book*, las criaturas son las herramientas principales para resolver puzles. Entre ellas, las variantes musicales juegan un papel crucial en la navegación de los "capítulos" de la enciclopedia. El **Croakoke**, una criatura similar a una rana que se encuentra en los primeros niveles, actúa como una guía rítmica. Cuando Yoshi alimenta o interactúa con estas criaturas, emiten notas musicales específicas que pueden desencadenar cambios ambientales.
+
+<CardGrid cols={3}>
+  <Card title="Croakoke">
+    - **Función**: Canta notas musicales
+    - **Interacción**: Alimenta con fruta
+    - **Recompensa**: Abre puertas rítmicas
+  </Card>
+  <Card title="Bubble Spouter">
+    - **Función**: Crea burbujas montables
+    - **Interacción**: Dale una manzana
+    - **Recompensa**: Descubrimiento de estrellas ocultas
+  </Card>
+  <Card title="Tempo Tortoise">
+    - **Función**: Controla la velocidad del nivel
+    - **Interacción**: Golpe de suelo
+    - **Recompensa**: Ralentiza los ciclos de la plataforma
+  </Card>
+</CardGrid>
+
+La interacción entre la visión del **compositor de yoshi and the mysterious book** y la jugabilidad es más evidente en el sistema de "Descubrimiento". Cada vez que un jugador descubre una nueva interacción con una criatura, suena un tintineo musical único, contribuyendo a una "Composición Maestra" para ese nivel específico.
+
+| Nombre de la Criatura | Efecto de Audio | Impacto en la Jugabilidad |
+| :--- | :--- | :--- |
+| **Croakoke** | Ribbit Melódico | Revela plataformas invisibles |
+| **Whistle Willow** | Flauta de tono alto | Distrae a los enemigos patrullando |
+| **Drummer Beetle** | Golpe Percusivo | Rompe barreras de cristal frágiles |
+| **Echo Owl** | Reverberación Floral | Destaca ubicaciones de coleccionables ocultos |
+
+<Callout type="success" title="Consejo de Descubrimiento Profesional">
+Siempre escucha los cambios sutiles en la música de fondo. Si el tempo aumenta o un nuevo instrumento se une, es probable que estés cerca de una criatura oculta o un punto de interacción secreto.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Paso a Paso: Resolviendo Puzles Musicales">
+
+Muchos niveles requieren que Yoshi "componga" una melodía corta para avanzar. Estos puzles están diseñados para ser accesibles pero profundos, recompensando a los jugadores que prestan atención a las pistas de audio proporcionadas por el entorno. Siguiendo la dirección del **compositor de yoshi and the mysterious book**, los jugadores deben organizar las criaturas en una secuencia específica para que coincida con una melodía objetivo.
+
+<Steps>
+  <Step num="1" title="Localiza al Director">
+    Encuentra al personaje marcador "Sr. E" al comienzo del área del puzle para escuchar la melodía objetivo.
+  </Step>
+  <Step num="2" title="Reúne a las Criaturas">
+    Explora el área inmediata para encontrar las criaturas musicales requeridas (generalmente 3-4 tipos diferentes).
+  </Step>
+  <Step num="3" title="Organiza la Secuencia">
+    Coloca a Yoshi junto a cada criatura e interactúa con ellas en el orden que coincida con la melodía objetivo.
+  </Step>
+  <Step num="4" title="Ejecuta la Interpretación">
+    Activa a la criatura final para que reproduzca la secuencia completa. Si es correcto, aparecerá una "Estrella" o se abrirá un camino.
+  </Step>
+</Steps>
+
+| Tipo de Puzle | Dificultad | Recompensa Principal |
+| :--- | :--- | :--- |
+| **Coincidencia de Tono** | Fácil | Flores Corazón / Salud |
+| **Imitación de Ritmo** | Medio | Monedas Rojas / Coleccionables |
+| **Construcción de Armonía** | Difícil | Estrellas Sonrientes / Completado de Nivel |
+
+<Callout type="warning" title="Advertencia de Latencia de Audio">
+Si estás jugando en un televisor con un alto retraso de procesamiento, los puzles de ritmo pueden sentirse "desfasados". Recomendamos usar el modo portátil de Switch 2 o un "Modo de Juego" dedicado en tu pantalla para la mejor experiencia musical.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Logros de Audio y Lista de Verificación">
+
+Para los completistas, el diseño de audio ofrece una capa de profundidad a través de la "Galería de Sonidos". Al interactuar con cada criatura del libro, los jugadores pueden desbloquear la banda sonora completa y clips de efectos de sonido aislados. El equipo del **compositor de yoshi and the mysterious book** ha escondido varias "Pistas Legado" de juegos anteriores de Yoshi que solo se reproducen cuando se cumplen condiciones específicas.
+
+<Checklist
+  id="musical-milestones"
+  title="Objetivos de Completación de Audio:"
+  items={[
+    "Descubre las 12 variantes del Croakoke",
+    "Completa un nivel sin perder un solo ritmo",
+    "Desbloquea el remix secreto de 'Yoshi's Story' en el Capítulo 5",
+    "Encuentra el huevo de pascua oculto de 'La Canción de Totaka'",
+    "Recoge las 500 Notas Musicales en todos los capítulos"
+  ]}
+/>
+
+| Nombre del Logro | Requisito | Tipo |
+| :--- | :--- | :--- |
+| **Virtuoso** | Puntuación perfecta en todos los puzles de ritmo | Trofeo de Oro |
+| **Naturalista** | Interactúa con todas las criaturas cantoras | Trofeo de Plata |
+| **Audiófilo** | Desbloquea todas las pistas en la Galería de Sonidos | Trofeo de Bronce |
+
+<Callout type="info" title="Alerta de Huevo de Pascua">
+Los fans de Kazumi Totaka deben estar atentos (y escuchar) su característica melodía de 19 notas. En este juego, se rumorea que está escondida en la página de "Créditos" de la enciclopedia después de completar la historia principal.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Optimizando la Experiencia de Sonido en Switch 2">
+
+El hardware de Nintendo Switch 2 permite que *Yoshi and the Mysterious Book* utilice audio espacial avanzado. Esto es particularmente importante para localizar criaturas que están "fuera de página" u ocultas detrás de capas ambientales. El **compositor de yoshi and the mysterious book** diseñó específicamente el audio para aprovechar la mayor potencia de procesamiento de la nueva consola, ofreciendo paisajes sonoros 3D que cambian a medida que Yoshi se mueve del primer plano al fondo.
+
+| Configuración | Valor Recomendado | Efecto |
+| :--- | :--- | :--- |
+| **Rango Dinámico** | **Amplio** | Mejora el contraste entre sonidos suaves y fuertes |
+| **Modo de Altavoz** | **Envolvente** | Mejor para identificar ubicaciones de criaturas a través de audio 3D |
+| **Volumen de Música** | **85%** | Permite que los efectos de sonido destaquen sin perder la melodía |
+| **Volumen de Voz** | **100%** | Asegura que las señales vocales de Yoshi sean claramente audibles |
+
+<CardGrid cols={2}>
+  <Card title="Experiencia Portátil">
+    - Optimizado para altavoces estéreo incorporados
+    - Se centra en melodías claras y de alta frecuencia
+    - Ideal para juego casual y descubrimiento
+  </Card>
+  <Card title="Experiencia Acoplada">
+    - Compatible con sonido envolvente completo 5.1 y 7.1
+    - Graves profundos para elementos ambientales percusivos
+    - Sensación inmersiva de "teatro" para encuentros con jefes
+  </Card>
+</CardGrid>
+
+<Callout type="tip" title="Recomendación de Auriculares">
+Para la experiencia más inmersiva, usa auriculares de diadema de alta calidad. Los sutiles efectos de sonido de "papel crujiendo" y "lápiz rascando" son mucho más fáciles de escuchar, lo que contribuye a la atmósfera única de enciclopedia del juego.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas Frecuentes: Música de Yoshi and the Mysterious Book">
+
+<FAQ items={[
+  {
+    question: "¿Quién es el compositor principal de yoshi and the mysterious book?",
+    answer: "El juego presenta una banda sonora colaborativa dirigida por el departamento de sonido de Nintendo y el equipo interno de Good-Feel. Kazumi Totaka, quien da voz a Yoshi, proporcionó una importante contribución creativa en la dirección de audio para mantener el tono caprichoso de la serie."
+  },
+  {
+    question: "¿Cómo desbloqueo la Galería de Sonidos?",
+    answer: "La Galería de Sonidos se desbloquea después de completar el Capítulo 1. Sin embargo, las pistas individuales solo aparecen en la galería una vez que hayas completado el nivel correspondiente y encontrado al menos el 50% de las Notas Musicales en esa etapa."
+  },
+  {
+    question: "¿Hay puzles musicales necesarios para terminar el juego?",
+    answer: "Sí, varios encuentros con jefes y puzles de 'Guardián de Puerta' requieren que interactúes con criaturas musicales como el Croakoke en un ritmo específico para avanzar. Estos son obligatorios, pero ofrecen pistas en 'Modo Fácil' si fallas varias veces."
+  },
+  {
+    question: "¿El juego admite la dirección con control de movimiento?",
+    answer: "¡Sí! En la Nintendo Switch 2, puedes usar los controles Joy-Con para 'dirigir' a las criaturas musicales durante ciertos eventos especiales, lo que cambia el tempo y el tono de la música en tiempo real."
+  }
+]} />
+
+</Section>
