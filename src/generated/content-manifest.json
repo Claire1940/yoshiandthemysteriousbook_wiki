@@ -1,0 +1,1434 @@
+{
+  "en": {
+    "bosses": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-all-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-all-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bowser-jr",
+        "file": "Yoshi-and-the-Mysterious-Book-bowser-jr"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-final-boss",
+        "file": "Yoshi-and-the-Mysterious-Book-final-boss"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-no-damage",
+        "file": "Yoshi-and-the-Mysterious-Book-no-damage"
+      },
+      {
+        "slug": "does-yoshi-and-the-mysterious-book-have-bosses",
+        "file": "does-yoshi-and-the-mysterious-book-have-bosses"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-baby-bowser",
+        "file": "yoshi-and-the-mysterious-book-baby-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bonestone",
+        "file": "yoshi-and-the-mysterious-book-bonestone"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bowser",
+        "file": "yoshi-and-the-mysterious-book-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crazee-dayzee",
+        "file": "yoshi-and-the-mysterious-book-crazee-dayzee"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-kamek",
+        "file": "yoshi-and-the-mysterious-book-kamek"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-main-villain",
+        "file": "yoshi-and-the-mysterious-book-main-villain"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-milde",
+        "file": "yoshi-and-the-mysterious-book-milde"
+      }
+    ],
+    "features": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-creatures",
+        "file": "Yoshi-and-the-Mysterious-Book-creatures"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-age-rating",
+        "file": "yoshi-and-the-mysterious-book-age-rating"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-amiibo",
+        "file": "yoshi-and-the-mysterious-book-amiibo"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-art",
+        "file": "yoshi-and-the-mysterious-book-art"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-autumn",
+        "file": "yoshi-and-the-mysterious-book-autumn"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-barjo-daisy",
+        "file": "yoshi-and-the-mysterious-book-barjo-daisy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-characters",
+        "file": "yoshi-and-the-mysterious-book-characters"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-creature-discovery",
+        "file": "yoshi-and-the-mysterious-book-creature-discovery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-croakaoke",
+        "file": "yoshi-and-the-mysterious-book-croakaoke"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crozon",
+        "file": "yoshi-and-the-mysterious-book-crozon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-enemies",
+        "file": "yoshi-and-the-mysterious-book-enemies"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-glubbit",
+        "file": "yoshi-and-the-mysterious-book-glubbit"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-japanese-name",
+        "file": "yoshi-and-the-mysterious-book-japanese-name"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-languages",
+        "file": "yoshi-and-the-mysterious-book-languages"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-merch",
+        "file": "yoshi-and-the-mysterious-book-merch"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-mr-e",
+        "file": "yoshi-and-the-mysterious-book-mr-e"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unlockables",
+        "file": "yoshi-and-the-mysterious-book-unlockables"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unreal-engine",
+        "file": "yoshi-and-the-mysterious-book-unreal-engine"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-beginner-guide",
+        "file": "Yoshi-and-the-Mysterious-Book-beginner-guide"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-controls",
+        "file": "Yoshi-and-the-Mysterious-Book-controls"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-difficulty",
+        "file": "Yoshi-and-the-Mysterious-Book-difficulty"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gameplay",
+        "file": "Yoshi-and-the-Mysterious-Book-gameplay"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-long-to-beat",
+        "file": "Yoshi-and-the-Mysterious-Book-how-long-to-beat"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-chapters",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-chapters"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-walkthrough"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-composer",
+        "file": "yoshi-and-the-mysterious-book-composer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crypt-road",
+        "file": "yoshi-and-the-mysterious-book-crypt-road"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-file-size",
+        "file": "yoshi-and-the-mysterious-book-file-size"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-frame-rate",
+        "file": "yoshi-and-the-mysterious-book-frame-rate"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-gallery",
+        "file": "yoshi-and-the-mysterious-book-gallery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-game-length",
+        "file": "yoshi-and-the-mysterious-book-game-length"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-genre",
+        "file": "yoshi-and-the-mysterious-book-genre"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-good-feel",
+        "file": "yoshi-and-the-mysterious-book-good-feel"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-moon",
+        "file": "yoshi-and-the-mysterious-book-moon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-vs-crafted-world",
+        "file": "yoshi-and-the-mysterious-book-vs-crafted-world"
+      }
+    ],
+    "multiplayer": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-couch-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-couch-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-players",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-players"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-multiplayer",
+        "file": "Yoshi-and-the-Mysterious-Book-multiplayer"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-two-player",
+        "file": "Yoshi-and-the-Mysterious-Book-two-player"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-game-key-card",
+        "file": "Yoshi-and-the-Mysterious-Book-game-key-card"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-physical-copy",
+        "file": "Yoshi-and-the-Mysterious-Book-physical-copy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-platforms",
+        "file": "Yoshi-and-the-Mysterious-Book-platforms"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-1",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-1"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-2",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-2"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-switch-2-edition",
+        "file": "yoshi-and-the-mysterious-book-switch-2-edition"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-amazon",
+        "file": "Yoshi-and-the-Mysterious-Book-amazon"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-best-buy",
+        "file": "Yoshi-and-the-Mysterious-Book-best-buy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gamestop",
+        "file": "Yoshi-and-the-Mysterious-Book-gamestop"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-price",
+        "file": "Yoshi-and-the-Mysterious-Book-price"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walmart",
+        "file": "Yoshi-and-the-Mysterious-Book-walmart"
+      },
+      {
+        "slug": "will-yoshi-and-the-mysterious-book-have-a-physical-copy",
+        "file": "will-yoshi-and-the-mysterious-book-have-a-physical-copy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bundle",
+        "file": "yoshi-and-the-mysterious-book-bundle"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-collector-s-edition",
+        "file": "yoshi-and-the-mysterious-book-collector's-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-key-card",
+        "file": "yoshi-and-the-mysterious-book-key-card"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-limited-edition",
+        "file": "yoshi-and-the-mysterious-book-limited-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-special-edition",
+        "file": "yoshi-and-the-mysterious-book-special-edition"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-demo",
+        "file": "Yoshi-and-the-Mysterious-Book-demo"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder-bonus",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder-bonus"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-release-date",
+        "file": "Yoshi-and-the-Mysterious-Book-release-date"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-trailer",
+        "file": "Yoshi-and-the-Mysterious-Book-trailer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-nintendo-direct",
+        "file": "yoshi-and-the-mysterious-book-nintendo-direct"
+      }
+    ],
+    "review": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-hands-on",
+        "file": "Yoshi-and-the-Mysterious-Book-hands-on"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-ign",
+        "file": "Yoshi-and-the-Mysterious-Book-ign"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-is-good",
+        "file": "Yoshi-and-the-Mysterious-Book-is-good"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-metacritic",
+        "file": "Yoshi-and-the-Mysterious-Book-metacritic"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preview",
+        "file": "Yoshi-and-the-Mysterious-Book-preview"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-review",
+        "file": "Yoshi-and-the-Mysterious-Book-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-early-review",
+        "file": "yoshi-and-the-mysterious-book-early-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-review-embargo",
+        "file": "yoshi-and-the-mysterious-book-review-embargo"
+      }
+    ]
+  },
+  "es": {
+    "bosses": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-all-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-all-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bowser-jr",
+        "file": "Yoshi-and-the-Mysterious-Book-bowser-jr"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-final-boss",
+        "file": "Yoshi-and-the-Mysterious-Book-final-boss"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-no-damage",
+        "file": "Yoshi-and-the-Mysterious-Book-no-damage"
+      },
+      {
+        "slug": "does-yoshi-and-the-mysterious-book-have-bosses",
+        "file": "does-yoshi-and-the-mysterious-book-have-bosses"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-baby-bowser",
+        "file": "yoshi-and-the-mysterious-book-baby-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bonestone",
+        "file": "yoshi-and-the-mysterious-book-bonestone"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bowser",
+        "file": "yoshi-and-the-mysterious-book-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crazee-dayzee",
+        "file": "yoshi-and-the-mysterious-book-crazee-dayzee"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-kamek",
+        "file": "yoshi-and-the-mysterious-book-kamek"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-main-villain",
+        "file": "yoshi-and-the-mysterious-book-main-villain"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-milde",
+        "file": "yoshi-and-the-mysterious-book-milde"
+      }
+    ],
+    "features": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-creatures",
+        "file": "Yoshi-and-the-Mysterious-Book-creatures"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-age-rating",
+        "file": "yoshi-and-the-mysterious-book-age-rating"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-amiibo",
+        "file": "yoshi-and-the-mysterious-book-amiibo"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-art",
+        "file": "yoshi-and-the-mysterious-book-art"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-autumn",
+        "file": "yoshi-and-the-mysterious-book-autumn"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-barjo-daisy",
+        "file": "yoshi-and-the-mysterious-book-barjo-daisy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-characters",
+        "file": "yoshi-and-the-mysterious-book-characters"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-creature-discovery",
+        "file": "yoshi-and-the-mysterious-book-creature-discovery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-croakaoke",
+        "file": "yoshi-and-the-mysterious-book-croakaoke"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crozon",
+        "file": "yoshi-and-the-mysterious-book-crozon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-enemies",
+        "file": "yoshi-and-the-mysterious-book-enemies"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-glubbit",
+        "file": "yoshi-and-the-mysterious-book-glubbit"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-japanese-name",
+        "file": "yoshi-and-the-mysterious-book-japanese-name"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-languages",
+        "file": "yoshi-and-the-mysterious-book-languages"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-merch",
+        "file": "yoshi-and-the-mysterious-book-merch"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-mr-e",
+        "file": "yoshi-and-the-mysterious-book-mr-e"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unlockables",
+        "file": "yoshi-and-the-mysterious-book-unlockables"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unreal-engine",
+        "file": "yoshi-and-the-mysterious-book-unreal-engine"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-beginner-guide",
+        "file": "Yoshi-and-the-Mysterious-Book-beginner-guide"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-controls",
+        "file": "Yoshi-and-the-Mysterious-Book-controls"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-difficulty",
+        "file": "Yoshi-and-the-Mysterious-Book-difficulty"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gameplay",
+        "file": "Yoshi-and-the-Mysterious-Book-gameplay"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-long-to-beat",
+        "file": "Yoshi-and-the-Mysterious-Book-how-long-to-beat"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-chapters",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-chapters"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-walkthrough"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-composer",
+        "file": "yoshi-and-the-mysterious-book-composer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crypt-road",
+        "file": "yoshi-and-the-mysterious-book-crypt-road"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-file-size",
+        "file": "yoshi-and-the-mysterious-book-file-size"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-frame-rate",
+        "file": "yoshi-and-the-mysterious-book-frame-rate"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-gallery",
+        "file": "yoshi-and-the-mysterious-book-gallery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-game-length",
+        "file": "yoshi-and-the-mysterious-book-game-length"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-genre",
+        "file": "yoshi-and-the-mysterious-book-genre"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-good-feel",
+        "file": "yoshi-and-the-mysterious-book-good-feel"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-moon",
+        "file": "yoshi-and-the-mysterious-book-moon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-vs-crafted-world",
+        "file": "yoshi-and-the-mysterious-book-vs-crafted-world"
+      }
+    ],
+    "multiplayer": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-couch-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-couch-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-players",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-players"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-multiplayer",
+        "file": "Yoshi-and-the-Mysterious-Book-multiplayer"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-two-player",
+        "file": "Yoshi-and-the-Mysterious-Book-two-player"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-game-key-card",
+        "file": "Yoshi-and-the-Mysterious-Book-game-key-card"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-physical-copy",
+        "file": "Yoshi-and-the-Mysterious-Book-physical-copy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-platforms",
+        "file": "Yoshi-and-the-Mysterious-Book-platforms"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-1",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-1"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-2",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-2"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-switch-2-edition",
+        "file": "yoshi-and-the-mysterious-book-switch-2-edition"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-amazon",
+        "file": "Yoshi-and-the-Mysterious-Book-amazon"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-best-buy",
+        "file": "Yoshi-and-the-Mysterious-Book-best-buy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gamestop",
+        "file": "Yoshi-and-the-Mysterious-Book-gamestop"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-price",
+        "file": "Yoshi-and-the-Mysterious-Book-price"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walmart",
+        "file": "Yoshi-and-the-Mysterious-Book-walmart"
+      },
+      {
+        "slug": "will-yoshi-and-the-mysterious-book-have-a-physical-copy",
+        "file": "will-yoshi-and-the-mysterious-book-have-a-physical-copy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bundle",
+        "file": "yoshi-and-the-mysterious-book-bundle"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-collector-s-edition",
+        "file": "yoshi-and-the-mysterious-book-collector's-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-key-card",
+        "file": "yoshi-and-the-mysterious-book-key-card"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-limited-edition",
+        "file": "yoshi-and-the-mysterious-book-limited-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-special-edition",
+        "file": "yoshi-and-the-mysterious-book-special-edition"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-demo",
+        "file": "Yoshi-and-the-Mysterious-Book-demo"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder-bonus",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder-bonus"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-release-date",
+        "file": "Yoshi-and-the-Mysterious-Book-release-date"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-trailer",
+        "file": "Yoshi-and-the-Mysterious-Book-trailer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-nintendo-direct",
+        "file": "yoshi-and-the-mysterious-book-nintendo-direct"
+      }
+    ],
+    "review": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-hands-on",
+        "file": "Yoshi-and-the-Mysterious-Book-hands-on"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-ign",
+        "file": "Yoshi-and-the-Mysterious-Book-ign"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-is-good",
+        "file": "Yoshi-and-the-Mysterious-Book-is-good"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-metacritic",
+        "file": "Yoshi-and-the-Mysterious-Book-metacritic"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preview",
+        "file": "Yoshi-and-the-Mysterious-Book-preview"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-review",
+        "file": "Yoshi-and-the-Mysterious-Book-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-early-review",
+        "file": "yoshi-and-the-mysterious-book-early-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-review-embargo",
+        "file": "yoshi-and-the-mysterious-book-review-embargo"
+      }
+    ]
+  },
+  "fr": {
+    "bosses": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-all-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-all-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bowser-jr",
+        "file": "Yoshi-and-the-Mysterious-Book-bowser-jr"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-final-boss",
+        "file": "Yoshi-and-the-Mysterious-Book-final-boss"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-no-damage",
+        "file": "Yoshi-and-the-Mysterious-Book-no-damage"
+      },
+      {
+        "slug": "does-yoshi-and-the-mysterious-book-have-bosses",
+        "file": "does-yoshi-and-the-mysterious-book-have-bosses"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-baby-bowser",
+        "file": "yoshi-and-the-mysterious-book-baby-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bonestone",
+        "file": "yoshi-and-the-mysterious-book-bonestone"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bowser",
+        "file": "yoshi-and-the-mysterious-book-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crazee-dayzee",
+        "file": "yoshi-and-the-mysterious-book-crazee-dayzee"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-kamek",
+        "file": "yoshi-and-the-mysterious-book-kamek"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-main-villain",
+        "file": "yoshi-and-the-mysterious-book-main-villain"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-milde",
+        "file": "yoshi-and-the-mysterious-book-milde"
+      }
+    ],
+    "features": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-creatures",
+        "file": "Yoshi-and-the-Mysterious-Book-creatures"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-age-rating",
+        "file": "yoshi-and-the-mysterious-book-age-rating"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-amiibo",
+        "file": "yoshi-and-the-mysterious-book-amiibo"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-art",
+        "file": "yoshi-and-the-mysterious-book-art"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-autumn",
+        "file": "yoshi-and-the-mysterious-book-autumn"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-barjo-daisy",
+        "file": "yoshi-and-the-mysterious-book-barjo-daisy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-characters",
+        "file": "yoshi-and-the-mysterious-book-characters"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-creature-discovery",
+        "file": "yoshi-and-the-mysterious-book-creature-discovery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-croakaoke",
+        "file": "yoshi-and-the-mysterious-book-croakaoke"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crozon",
+        "file": "yoshi-and-the-mysterious-book-crozon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-enemies",
+        "file": "yoshi-and-the-mysterious-book-enemies"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-glubbit",
+        "file": "yoshi-and-the-mysterious-book-glubbit"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-japanese-name",
+        "file": "yoshi-and-the-mysterious-book-japanese-name"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-languages",
+        "file": "yoshi-and-the-mysterious-book-languages"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-merch",
+        "file": "yoshi-and-the-mysterious-book-merch"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-mr-e",
+        "file": "yoshi-and-the-mysterious-book-mr-e"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unlockables",
+        "file": "yoshi-and-the-mysterious-book-unlockables"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unreal-engine",
+        "file": "yoshi-and-the-mysterious-book-unreal-engine"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-beginner-guide",
+        "file": "Yoshi-and-the-Mysterious-Book-beginner-guide"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-controls",
+        "file": "Yoshi-and-the-Mysterious-Book-controls"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-difficulty",
+        "file": "Yoshi-and-the-Mysterious-Book-difficulty"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gameplay",
+        "file": "Yoshi-and-the-Mysterious-Book-gameplay"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-long-to-beat",
+        "file": "Yoshi-and-the-Mysterious-Book-how-long-to-beat"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-chapters",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-chapters"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-walkthrough"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-composer",
+        "file": "yoshi-and-the-mysterious-book-composer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crypt-road",
+        "file": "yoshi-and-the-mysterious-book-crypt-road"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-file-size",
+        "file": "yoshi-and-the-mysterious-book-file-size"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-frame-rate",
+        "file": "yoshi-and-the-mysterious-book-frame-rate"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-gallery",
+        "file": "yoshi-and-the-mysterious-book-gallery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-game-length",
+        "file": "yoshi-and-the-mysterious-book-game-length"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-genre",
+        "file": "yoshi-and-the-mysterious-book-genre"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-good-feel",
+        "file": "yoshi-and-the-mysterious-book-good-feel"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-moon",
+        "file": "yoshi-and-the-mysterious-book-moon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-vs-crafted-world",
+        "file": "yoshi-and-the-mysterious-book-vs-crafted-world"
+      }
+    ],
+    "multiplayer": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-couch-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-couch-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-players",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-players"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-multiplayer",
+        "file": "Yoshi-and-the-Mysterious-Book-multiplayer"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-two-player",
+        "file": "Yoshi-and-the-Mysterious-Book-two-player"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-game-key-card",
+        "file": "Yoshi-and-the-Mysterious-Book-game-key-card"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-physical-copy",
+        "file": "Yoshi-and-the-Mysterious-Book-physical-copy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-platforms",
+        "file": "Yoshi-and-the-Mysterious-Book-platforms"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-1",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-1"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-2",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-2"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-switch-2-edition",
+        "file": "yoshi-and-the-mysterious-book-switch-2-edition"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-amazon",
+        "file": "Yoshi-and-the-Mysterious-Book-amazon"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-best-buy",
+        "file": "Yoshi-and-the-Mysterious-Book-best-buy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gamestop",
+        "file": "Yoshi-and-the-Mysterious-Book-gamestop"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-price",
+        "file": "Yoshi-and-the-Mysterious-Book-price"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walmart",
+        "file": "Yoshi-and-the-Mysterious-Book-walmart"
+      },
+      {
+        "slug": "will-yoshi-and-the-mysterious-book-have-a-physical-copy",
+        "file": "will-yoshi-and-the-mysterious-book-have-a-physical-copy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bundle",
+        "file": "yoshi-and-the-mysterious-book-bundle"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-collector-s-edition",
+        "file": "yoshi-and-the-mysterious-book-collector's-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-key-card",
+        "file": "yoshi-and-the-mysterious-book-key-card"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-limited-edition",
+        "file": "yoshi-and-the-mysterious-book-limited-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-special-edition",
+        "file": "yoshi-and-the-mysterious-book-special-edition"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-demo",
+        "file": "Yoshi-and-the-Mysterious-Book-demo"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder-bonus",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder-bonus"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-release-date",
+        "file": "Yoshi-and-the-Mysterious-Book-release-date"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-trailer",
+        "file": "Yoshi-and-the-Mysterious-Book-trailer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-nintendo-direct",
+        "file": "yoshi-and-the-mysterious-book-nintendo-direct"
+      }
+    ],
+    "review": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-hands-on",
+        "file": "Yoshi-and-the-Mysterious-Book-hands-on"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-ign",
+        "file": "Yoshi-and-the-Mysterious-Book-ign"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-is-good",
+        "file": "Yoshi-and-the-Mysterious-Book-is-good"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-metacritic",
+        "file": "Yoshi-and-the-Mysterious-Book-metacritic"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preview",
+        "file": "Yoshi-and-the-Mysterious-Book-preview"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-review",
+        "file": "Yoshi-and-the-Mysterious-Book-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-early-review",
+        "file": "yoshi-and-the-mysterious-book-early-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-review-embargo",
+        "file": "yoshi-and-the-mysterious-book-review-embargo"
+      }
+    ]
+  },
+  "pt": {
+    "bosses": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-all-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-all-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bosses",
+        "file": "Yoshi-and-the-Mysterious-Book-bosses"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-bowser-jr",
+        "file": "Yoshi-and-the-Mysterious-Book-bowser-jr"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-final-boss",
+        "file": "Yoshi-and-the-Mysterious-Book-final-boss"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-no-damage",
+        "file": "Yoshi-and-the-Mysterious-Book-no-damage"
+      },
+      {
+        "slug": "does-yoshi-and-the-mysterious-book-have-bosses",
+        "file": "does-yoshi-and-the-mysterious-book-have-bosses"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-baby-bowser",
+        "file": "yoshi-and-the-mysterious-book-baby-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bonestone",
+        "file": "yoshi-and-the-mysterious-book-bonestone"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bowser",
+        "file": "yoshi-and-the-mysterious-book-bowser"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crazee-dayzee",
+        "file": "yoshi-and-the-mysterious-book-crazee-dayzee"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-kamek",
+        "file": "yoshi-and-the-mysterious-book-kamek"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-main-villain",
+        "file": "yoshi-and-the-mysterious-book-main-villain"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-milde",
+        "file": "yoshi-and-the-mysterious-book-milde"
+      }
+    ],
+    "features": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-creatures",
+        "file": "Yoshi-and-the-Mysterious-Book-creatures"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-age-rating",
+        "file": "yoshi-and-the-mysterious-book-age-rating"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-amiibo",
+        "file": "yoshi-and-the-mysterious-book-amiibo"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-art",
+        "file": "yoshi-and-the-mysterious-book-art"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-autumn",
+        "file": "yoshi-and-the-mysterious-book-autumn"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-barjo-daisy",
+        "file": "yoshi-and-the-mysterious-book-barjo-daisy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-characters",
+        "file": "yoshi-and-the-mysterious-book-characters"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-creature-discovery",
+        "file": "yoshi-and-the-mysterious-book-creature-discovery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-croakaoke",
+        "file": "yoshi-and-the-mysterious-book-croakaoke"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crozon",
+        "file": "yoshi-and-the-mysterious-book-crozon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-enemies",
+        "file": "yoshi-and-the-mysterious-book-enemies"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-glubbit",
+        "file": "yoshi-and-the-mysterious-book-glubbit"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-japanese-name",
+        "file": "yoshi-and-the-mysterious-book-japanese-name"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-languages",
+        "file": "yoshi-and-the-mysterious-book-languages"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-merch",
+        "file": "yoshi-and-the-mysterious-book-merch"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-mr-e",
+        "file": "yoshi-and-the-mysterious-book-mr-e"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unlockables",
+        "file": "yoshi-and-the-mysterious-book-unlockables"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-unreal-engine",
+        "file": "yoshi-and-the-mysterious-book-unreal-engine"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-beginner-guide",
+        "file": "Yoshi-and-the-Mysterious-Book-beginner-guide"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-controls",
+        "file": "Yoshi-and-the-Mysterious-Book-controls"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-difficulty",
+        "file": "Yoshi-and-the-Mysterious-Book-difficulty"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-full-game-walkthrough"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gameplay",
+        "file": "Yoshi-and-the-Mysterious-Book-gameplay"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-long-to-beat",
+        "file": "Yoshi-and-the-Mysterious-Book-how-long-to-beat"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-chapters",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-chapters"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walkthrough",
+        "file": "Yoshi-and-the-Mysterious-Book-walkthrough"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-composer",
+        "file": "yoshi-and-the-mysterious-book-composer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-crypt-road",
+        "file": "yoshi-and-the-mysterious-book-crypt-road"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-file-size",
+        "file": "yoshi-and-the-mysterious-book-file-size"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-frame-rate",
+        "file": "yoshi-and-the-mysterious-book-frame-rate"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-gallery",
+        "file": "yoshi-and-the-mysterious-book-gallery"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-game-length",
+        "file": "yoshi-and-the-mysterious-book-game-length"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-genre",
+        "file": "yoshi-and-the-mysterious-book-genre"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-good-feel",
+        "file": "yoshi-and-the-mysterious-book-good-feel"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-moon",
+        "file": "yoshi-and-the-mysterious-book-moon"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-vs-crafted-world",
+        "file": "yoshi-and-the-mysterious-book-vs-crafted-world"
+      }
+    ],
+    "multiplayer": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-couch-co-op",
+        "file": "Yoshi-and-the-Mysterious-Book-couch-co-op"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-how-many-players",
+        "file": "Yoshi-and-the-Mysterious-Book-how-many-players"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-multiplayer",
+        "file": "Yoshi-and-the-Mysterious-Book-multiplayer"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-two-player",
+        "file": "Yoshi-and-the-Mysterious-Book-two-player"
+      }
+    ],
+    "platform": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-game-key-card",
+        "file": "Yoshi-and-the-Mysterious-Book-game-key-card"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-physical-copy",
+        "file": "Yoshi-and-the-Mysterious-Book-physical-copy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-platforms",
+        "file": "Yoshi-and-the-Mysterious-Book-platforms"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-1",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-1"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-switch-2",
+        "file": "Yoshi-and-the-Mysterious-Book-switch-2"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-switch-2-edition",
+        "file": "yoshi-and-the-mysterious-book-switch-2-edition"
+      }
+    ],
+    "purchase": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-amazon",
+        "file": "Yoshi-and-the-Mysterious-Book-amazon"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-best-buy",
+        "file": "Yoshi-and-the-Mysterious-Book-best-buy"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-gamestop",
+        "file": "Yoshi-and-the-Mysterious-Book-gamestop"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-price",
+        "file": "Yoshi-and-the-Mysterious-Book-price"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-walmart",
+        "file": "Yoshi-and-the-Mysterious-Book-walmart"
+      },
+      {
+        "slug": "will-yoshi-and-the-mysterious-book-have-a-physical-copy",
+        "file": "will-yoshi-and-the-mysterious-book-have-a-physical-copy"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-bundle",
+        "file": "yoshi-and-the-mysterious-book-bundle"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-collector-s-edition",
+        "file": "yoshi-and-the-mysterious-book-collector's-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-key-card",
+        "file": "yoshi-and-the-mysterious-book-key-card"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-limited-edition",
+        "file": "yoshi-and-the-mysterious-book-limited-edition"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-special-edition",
+        "file": "yoshi-and-the-mysterious-book-special-edition"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-demo",
+        "file": "Yoshi-and-the-Mysterious-Book-demo"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder-bonus",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder-bonus"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preorder",
+        "file": "Yoshi-and-the-Mysterious-Book-preorder"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-release-date",
+        "file": "Yoshi-and-the-Mysterious-Book-release-date"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-trailer",
+        "file": "Yoshi-and-the-Mysterious-Book-trailer"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-nintendo-direct",
+        "file": "yoshi-and-the-mysterious-book-nintendo-direct"
+      }
+    ],
+    "review": [
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-hands-on",
+        "file": "Yoshi-and-the-Mysterious-Book-hands-on"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-ign",
+        "file": "Yoshi-and-the-Mysterious-Book-ign"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-is-good",
+        "file": "Yoshi-and-the-Mysterious-Book-is-good"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-metacritic",
+        "file": "Yoshi-and-the-Mysterious-Book-metacritic"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-preview",
+        "file": "Yoshi-and-the-Mysterious-Book-preview"
+      },
+      {
+        "slug": "Yoshi-and-the-Mysterious-Book-review",
+        "file": "Yoshi-and-the-Mysterious-Book-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-early-review",
+        "file": "yoshi-and-the-mysterious-book-early-review"
+      },
+      {
+        "slug": "yoshi-and-the-mysterious-book-review-embargo",
+        "file": "yoshi-and-the-mysterious-book-review-embargo"
+      }
+    ]
+  }
+}
